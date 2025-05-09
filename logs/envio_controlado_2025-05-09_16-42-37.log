@@ -1,0 +1,22 @@
+2025/05/09 16:42:37 🚀 Iniciando processo de envio controlado
+2025/05/09 16:42:37 🔍 Verificando template inicial: transacional_mes_mae
+2025/05/09 16:42:37 ✅ Template transacional_mes_mae confirmado como UTILITY
+2025/05/09 16:42:37 ✅ Template confirmado. Iniciando envio...
+2025/05/09 16:42:37 🚀 Iniciando com taxa de 50 mensagens por segundo
+2025/05/09 16:42:37 📤 Processando lote #1: 4 mensagens
+2025/05/09 16:42:37 ✅ Lote #1: 4/100000 mensagens enviadas
+2025/05/09 16:42:38 Número 19992864222 já processado anteriormente, marcando pedido RENOVABE-12312312 como enviado
+2025/05/09 16:42:38 Número 19991122070 já processado anteriormente, marcando pedido RENOVABE-12312313 como enviado
+2025/05/09 16:42:38 Número 19992976902 já processado anteriormente, marcando pedido RENOVABE-12312314 como enviado
+2025/05/09 16:42:38 Número 19995316845 já processado anteriormente, marcando pedido RENOVABE-12312315 como enviado
+2025/05/09 16:42:38 📊 Não há mais mensagens para processar
+2025/05/09 16:42:39 
+📊 RESULTADOS:
+2025/05/09 16:42:39 • Processado: 4
+2025/05/09 16:42:39 • Sucesso: 4
+2025/05/09 16:42:39 • Falhas: 0
+2025/05/09 16:42:39 • Rate Limits: 0
+2025/05/09 16:42:39 • Taxa final: 50 msgs/seg
+2025/05/09 16:42:39 • Taxa de sucesso: 100.00%
+2025/05/09 16:42:39 
+✅ Concluído! Detalhes em stats/estatisticas_controlado.txt

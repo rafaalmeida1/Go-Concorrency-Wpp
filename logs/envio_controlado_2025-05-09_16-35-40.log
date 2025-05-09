@@ -1,0 +1,31 @@
+2025/05/09 16:35:40 🚀 Iniciando processo de envio controlado
+2025/05/09 16:35:40 🔍 Verificando template inicial: transacional_mes_mae
+2025/05/09 16:35:40 ⚠️ Erro na verificação na API: template não encontrado
+2025/05/09 16:35:40 Erro na API, verificando lista local
+2025/05/09 16:35:40 ✅ Template confirmado. Iniciando envio...
+2025/05/09 16:35:40 🚀 Iniciando com taxa de 50 mensagens por segundo
+2025/05/09 16:35:41 📤 Processando lote #1: 4 mensagens
+2025/05/09 16:35:41 ✅ Lote #1: 4/100000 mensagens enviadas
+2025/05/09 16:35:41 Número 19992864222 já processado anteriormente, marcando pedido RENOVABE-12312312 como enviado
+2025/05/09 16:35:41 Número 19991122070 já processado anteriormente, marcando pedido RENOVABE-12312313 como enviado
+2025/05/09 16:35:41 Número 19992976902 já processado anteriormente, marcando pedido RENOVABE-12312314 como enviado
+2025/05/09 16:35:41 Número 19995316845 já processado anteriormente, marcando pedido RENOVABE-12312315 como enviado
+2025/05/09 16:35:41 📊 Não há mais mensagens para processar
+2025/05/09 16:35:41 Erro na API, verificando lista local
+2025/05/09 16:35:41 Erro na API, verificando lista local
+2025/05/09 16:35:41 Erro na API, verificando lista local
+2025/05/09 16:35:41 Erro na API, verificando lista local
+2025/05/09 16:35:41 Erro 404: {"error":{"message":"(#132001) Template name does not exist in the translation","type":"OAuthException","code":132001,"error_data":{"messaging_product":"whatsapp","details":"template name (transacional_mes_mae) does not exist in pt_BR"},"fbtrace_id":"AfLnI5G15Xz8iSf8VWCZ4AO"}}
+2025/05/09 16:35:41 Erro 404: {"error":{"message":"(#132001) Template name does not exist in the translation","type":"OAuthException","code":132001,"error_data":{"messaging_product":"whatsapp","details":"template name (transacional_mes_mae) does not exist in pt_BR"},"fbtrace_id":"AqCQC18hHzq8jEu4OiSej0G"}}
+2025/05/09 16:35:41 Erro 404: {"error":{"message":"(#132001) Template name does not exist in the translation","type":"OAuthException","code":132001,"error_data":{"messaging_product":"whatsapp","details":"template name (transacional_mes_mae) does not exist in pt_BR"},"fbtrace_id":"A6_F5pQs2uUR3uWAeYoW30L"}}
+2025/05/09 16:35:41 Erro 404: {"error":{"message":"(#132001) Template name does not exist in the translation","type":"OAuthException","code":132001,"error_data":{"messaging_product":"whatsapp","details":"template name (transacional_mes_mae) does not exist in pt_BR"},"fbtrace_id":"Ay5NsvEqEbHj87CYVhoAwao"}}
+2025/05/09 16:35:42 
+📊 RESULTADOS:
+2025/05/09 16:35:42 • Processado: 4
+2025/05/09 16:35:42 • Sucesso: 0
+2025/05/09 16:35:42 • Falhas: 4
+2025/05/09 16:35:42 • Rate Limits: 0
+2025/05/09 16:35:42 • Taxa final: 50 msgs/seg
+2025/05/09 16:35:42 • Taxa de sucesso: 0.00%
+2025/05/09 16:35:42 
+✅ Concluído! Detalhes em stats/estatisticas_controlado.txt

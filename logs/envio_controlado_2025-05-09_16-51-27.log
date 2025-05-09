@@ -1,0 +1,19 @@
+2025/05/09 16:51:27 🚀 Iniciando processo de envio controlado
+2025/05/09 16:51:27 🔍 Verificando template inicial: transacional_mes_mae
+2025/05/09 16:51:29 ✅ Template transacional_mes_mae confirmado como UTILITY
+2025/05/09 16:51:29 ✅ Template confirmado. Iniciando envio...
+2025/05/09 16:51:29 🚀 Iniciando com taxa de 50 mensagens por segundo
+2025/05/09 16:51:29 📤 Processando lote #1: 1000 mensagens
+2025/05/09 16:51:36 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"AIdxgLkXgjWR_lNKuG0Ft1-"}}
+2025/05/09 16:51:41 ✅ Lote #1: 1000/1000 mensagens enviadas
+2025/05/09 16:51:41 🏁 Limite de 1000 mensagens atingido
+2025/05/09 16:51:46 
+📊 RESULTADOS:
+2025/05/09 16:51:46 • Processado: 1000
+2025/05/09 16:51:46 • Sucesso: 999
+2025/05/09 16:51:46 • Falhas: 1
+2025/05/09 16:51:46 • Rate Limits: 0
+2025/05/09 16:51:46 • Taxa final: 50 msgs/seg
+2025/05/09 16:51:46 • Taxa de sucesso: 99.90%
+2025/05/09 16:51:46 
+✅ Concluído! Detalhes em stats/estatisticas_controlado.txt

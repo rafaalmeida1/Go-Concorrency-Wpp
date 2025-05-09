@@ -1,8 +1,0 @@
-=== ESTATÍSTICAS DE ENVIO ===
-Iniciado em: 09/05/2025 11:12:15
-Última atualização: 09/05/2025 11:12:17
-Tempo decorrido: 1s
-Total processado: 6
-Enviados com sucesso: 6
-Envios falhados: 0
-Taxa de sucesso: 100.00%

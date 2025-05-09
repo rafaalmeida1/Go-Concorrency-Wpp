@@ -1,0 +1,28 @@
+2025/05/09 17:15:44 🚀 Iniciando processo de envio controlado
+2025/05/09 17:15:44 🚀 Iniciando com taxa de 50 mensagens por segundo
+2025/05/09 17:15:44 🔍 Verificando template: transacional_mes_mae
+2025/05/09 17:15:45 ✅ Template transacional_mes_mae confirmado como UTILITY
+2025/05/09 17:15:45 ✅ Template confirmado. Iniciando envio...
+2025/05/09 17:15:45 📤 Processando lote #1: 10 mensagens
+2025/05/09 17:15:45 ✅ Lote #1: 10/10 mensagens enviadas
+2025/05/09 17:15:45 🏁 Limite de 10 mensagens atingido
+2025/05/09 17:15:45 Erro 400: {"error":{"message":"(#132015) Template is temporarily unavailable to use because it was paused due to low quality.","type":"OAuthException","code":132015,"error_data":{"messaging_product":"whatsapp","details":"template name (transacional_mes_mae) is paused"},"fbtrace_id":"ARvgy_ZdL9H19u-wwPi-QnW"}}
+2025/05/09 17:15:45 Erro 400: {"error":{"message":"(#132015) Template is temporarily unavailable to use because it was paused due to low quality.","type":"OAuthException","code":132015,"error_data":{"messaging_product":"whatsapp","details":"template name (transacional_mes_mae) is paused"},"fbtrace_id":"AOfmzUaR6GniKNfa4uP6b8V"}}
+2025/05/09 17:15:45 Erro 400: {"error":{"message":"(#132015) Template is temporarily unavailable to use because it was paused due to low quality.","type":"OAuthException","code":132015,"error_data":{"messaging_product":"whatsapp","details":"template name (transacional_mes_mae) is paused"},"fbtrace_id":"AGARfNOO4IjpF5hsu-yV8L5"}}
+2025/05/09 17:15:45 Erro 400: {"error":{"message":"(#132015) Template is temporarily unavailable to use because it was paused due to low quality.","type":"OAuthException","code":132015,"error_data":{"messaging_product":"whatsapp","details":"template name (transacional_mes_mae) is paused"},"fbtrace_id":"Ajxw_1CXmhEFpk1pmYd9XzS"}}
+2025/05/09 17:15:45 Erro 400: {"error":{"message":"(#132015) Template is temporarily unavailable to use because it was paused due to low quality.","type":"OAuthException","code":132015,"error_data":{"messaging_product":"whatsapp","details":"template name (transacional_mes_mae) is paused"},"fbtrace_id":"AoxuiW5nIvFFg2MNfTxnzdG"}}
+2025/05/09 17:15:45 Erro 400: {"error":{"message":"(#132015) Template is temporarily unavailable to use because it was paused due to low quality.","type":"OAuthException","code":132015,"error_data":{"messaging_product":"whatsapp","details":"template name (transacional_mes_mae) is paused"},"fbtrace_id":"AJR5N-BoXDlvADC7d6hEiGo"}}
+2025/05/09 17:15:45 Erro 400: {"error":{"message":"(#132015) Template is temporarily unavailable to use because it was paused due to low quality.","type":"OAuthException","code":132015,"error_data":{"messaging_product":"whatsapp","details":"template name (transacional_mes_mae) is paused"},"fbtrace_id":"AvRGDOViNo8V25BScZAWxON"}}
+2025/05/09 17:15:45 Erro 400: {"error":{"message":"(#132015) Template is temporarily unavailable to use because it was paused due to low quality.","type":"OAuthException","code":132015,"error_data":{"messaging_product":"whatsapp","details":"template name (transacional_mes_mae) is paused"},"fbtrace_id":"APKqipIyXnuQ8enMrQg0Q-X"}}
+2025/05/09 17:15:45 Erro 400: {"error":{"message":"(#132015) Template is temporarily unavailable to use because it was paused due to low quality.","type":"OAuthException","code":132015,"error_data":{"messaging_product":"whatsapp","details":"template name (transacional_mes_mae) is paused"},"fbtrace_id":"A0d1vG1dhUyc_CJXsTWwcBK"}}
+2025/05/09 17:15:45 Erro 400: {"error":{"message":"(#132015) Template is temporarily unavailable to use because it was paused due to low quality.","type":"OAuthException","code":132015,"error_data":{"messaging_product":"whatsapp","details":"template name (transacional_mes_mae) is paused"},"fbtrace_id":"A695EQlwE1CEyN-Ilxcp8CP"}}
+2025/05/09 17:15:46 
+📊 RESULTADOS:
+2025/05/09 17:15:46 • Processado: 10
+2025/05/09 17:15:46 • Sucesso: 0
+2025/05/09 17:15:46 • Falhas: 10
+2025/05/09 17:15:46 • Rate Limits: 0
+2025/05/09 17:15:46 • Taxa final: 50 msgs/seg
+2025/05/09 17:15:46 • Taxa de sucesso: 0.00%
+2025/05/09 17:15:46 
+✅ Concluído! Detalhes em stats/estatisticas_controlado.txt

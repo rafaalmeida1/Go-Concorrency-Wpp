@@ -1,0 +1,10 @@
+=== ESTATÍSTICAS DE ENVIO CONTROLADO ===
+Iniciado em: 09/05/2025 17:18:52
+Última atualização: 09/05/2025 17:19:04
+Tempo decorrido: 12s
+Total processado: 696
+Enviados com sucesso: 696
+Envios falhados: 0
+Rate limit atingido: 0
+Taxa atual: 50 msgs/seg
+Taxa de sucesso: 100.00%

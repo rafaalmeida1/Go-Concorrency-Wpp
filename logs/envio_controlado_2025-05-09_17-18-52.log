@@ -1,0 +1,9 @@
+2025/05/09 17:18:52 🚀 Iniciando processo de envio controlado
+2025/05/09 17:18:52 🚀 Iniciando com taxa de 50 mensagens por segundo
+2025/05/09 17:18:52 🔍 Verificando template: transacional_mes_mae
+2025/05/09 17:18:52 ⏸️ Template transacional_mes_mae está PAUSADO. Tentando próximo template...
+2025/05/09 17:18:52 🔍 Verificando template: transacional_mes_maes_1
+2025/05/09 17:18:53 ⏸️ Template transacional_mes_maes_1 está PAUSADO. Tentando próximo template...
+2025/05/09 17:18:53 🔍 Verificando template: transacional_mes_maes_2
+2025/05/09 17:18:53 ✅ Template transacional_mes_maes_2 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/09 17:18:53 📤 Processando lote #1: 1000 mensagens

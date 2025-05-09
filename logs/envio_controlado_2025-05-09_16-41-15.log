@@ -1,0 +1,26 @@
+2025/05/09 16:41:15 🚀 Iniciando processo de envio controlado
+2025/05/09 16:41:15 🔍 Verificando template inicial: transacional_mes_mae
+2025/05/09 16:41:16 ✅ Template transacional_mes_mae confirmado como UTILITY
+2025/05/09 16:41:16 ✅ Template confirmado. Iniciando envio...
+2025/05/09 16:41:16 🚀 Iniciando com taxa de 50 mensagens por segundo
+2025/05/09 16:41:16 📤 Processando lote #1: 4 mensagens
+2025/05/09 16:41:16 ✅ Lote #1: 4/100000 mensagens enviadas
+2025/05/09 16:41:16 Número 19992864222 já processado anteriormente, marcando pedido RENOVABE-12312312 como enviado
+2025/05/09 16:41:16 Número 19991122070 já processado anteriormente, marcando pedido RENOVABE-12312313 como enviado
+2025/05/09 16:41:16 Número 19992976902 já processado anteriormente, marcando pedido RENOVABE-12312314 como enviado
+2025/05/09 16:41:16 Número 19995316845 já processado anteriormente, marcando pedido RENOVABE-12312315 como enviado
+2025/05/09 16:41:16 📊 Não há mais mensagens para processar
+2025/05/09 16:41:16 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Param text cannot have new-line\/tab characters or more than 4 consecutive spaces"},"fbtrace_id":"AavdEMSL9HfVYhcIUHA7PzV"}}
+2025/05/09 16:41:16 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Param text cannot have new-line\/tab characters or more than 4 consecutive spaces"},"fbtrace_id":"ACHHAi3jG37n_6MPwJQn3Q-"}}
+2025/05/09 16:41:16 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Param text cannot have new-line\/tab characters or more than 4 consecutive spaces"},"fbtrace_id":"AM4EKBoZ1pBCeyC3BWVYgVD"}}
+2025/05/09 16:41:16 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Param text cannot have new-line\/tab characters or more than 4 consecutive spaces"},"fbtrace_id":"AJiyRwILAzMU3Px1-vyaUHK"}}
+2025/05/09 16:41:17 
+📊 RESULTADOS:
+2025/05/09 16:41:17 • Processado: 4
+2025/05/09 16:41:17 • Sucesso: 0
+2025/05/09 16:41:17 • Falhas: 4
+2025/05/09 16:41:17 • Rate Limits: 0
+2025/05/09 16:41:17 • Taxa final: 50 msgs/seg
+2025/05/09 16:41:17 • Taxa de sucesso: 0.00%
+2025/05/09 16:41:17 
+✅ Concluído! Detalhes em stats/estatisticas_controlado.txt

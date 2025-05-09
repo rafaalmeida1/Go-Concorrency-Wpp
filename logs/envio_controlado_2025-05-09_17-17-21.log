@@ -1,0 +1,20 @@
+2025/05/09 17:17:21 🚀 Iniciando processo de envio controlado
+2025/05/09 17:17:21 🚀 Iniciando com taxa de 50 mensagens por segundo
+2025/05/09 17:17:21 🔍 Verificando template: transacional_mes_mae
+2025/05/09 17:17:22 ⏸️ Template transacional_mes_mae está PAUSADO. Buscando alternativa...
+2025/05/09 17:17:22 ✅ Usando template alternativo: transacional_mes_maes_2
+2025/05/09 17:17:22 🔍 Verificando template: transacional_mes_maes_2
+2025/05/09 17:17:22 ✅ Template confirmado. Iniciando envio...
+2025/05/09 17:17:22 📤 Processando lote #1: 10 mensagens
+2025/05/09 17:17:22 ✅ Lote #1: 10/10 mensagens enviadas
+2025/05/09 17:17:22 🏁 Limite de 10 mensagens atingido
+2025/05/09 17:17:26 
+📊 RESULTADOS:
+2025/05/09 17:17:26 • Processado: 10
+2025/05/09 17:17:26 • Sucesso: 10
+2025/05/09 17:17:26 • Falhas: 0
+2025/05/09 17:17:26 • Rate Limits: 0
+2025/05/09 17:17:26 • Taxa final: 50 msgs/seg
+2025/05/09 17:17:26 • Taxa de sucesso: 100.00%
+2025/05/09 17:17:26 
+✅ Concluído! Detalhes em stats/estatisticas_controlado.txt
