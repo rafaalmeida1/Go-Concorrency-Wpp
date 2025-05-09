@@ -1,0 +1,69 @@
+2025/05/09 10:43:42 Log completo iniciado em: logs/envio_2025-05-09_10-43-42.log
+2025/05/09 10:43:42 Inicializando aplicação...
+2025/05/09 10:43:42 Conexão com banco de dados estabelecida
+2025/05/09 10:43:42 🚀 Iniciando processo de envio em massa
+2025/05/09 10:43:42 🔍 Verificando template na API do Meta
+2025/05/09 10:43:42 Template a verificar: cashback_disponivel
+2025/05/09 10:43:42 Consultando API do Meta para verificar categoria do template: cashback_disponivel
+2025/05/09 10:43:42 Resposta da API de templates: {"data":[{"name":"mensagem_pix_expiration","parameter_format":"POSITIONAL","components":[{"type":"HEADER","format":"TEXT","text":"Pagamento pendente"},{"type":"BODY","text":"Ol\u00e1 {{1}}, Seu pagamento via Pix expirou\n\n{{2}}","example":{"body_text":[["Vitabe","Mensagem Pix Expirado"]]}}],"language":"en","status":"APPROVED","category":"UTILITY","sub_category":"CUSTOM","id":"662476199832281"},{"name":"mensagem_pix_steps","parameter_format":"POSITIONAL","components":[{"type":"HEADER","format":"TEXT","text":"Seu pedido est\u00e1 quase l\u00e1!"},{"type":"BODY","text":"Ol\u00e1 {{1}},\n\n{{2}}\n\nClique no bot\u00e3o abaixo para receber sua chave PIX e garantir seu pedido! \u2705","example":{"body_text":[["Cliente","Mensagem Pix"]]}},{"type":"BUTTONS","buttons":[{"type":"QUICK_REPLY","text":"Quero receber a chave pix"},{"type":"QUICK_REPLY","text":"N\u00e3o quero mais aviso"}]}],"language":"en","status":"APPROVED","category":"UTILITY","correct_category":"MARKETING","id":"550013678151378"},{"name":"cashback_disponivel","parameter_format":"POSITIONAL","components":[{"type":"HEADER","format":"TEXT","text":"Atualiza\u00e7\u00e3o de saldo"},{"type":"BODY","text":"Ol\u00e1, {{1}}.\nInformamos que houve uma atualiza\u00e7\u00e3o no seu saldo de cashback.\n\n{{2}}\n\nPara mais detalhes, acesse o site.","example":{"body_text":[["Marinho Junior","Mensagem Cashback"]]}},{"type":"BUTTONS","buttons":[{"type":"URL","text":"Acessar o site","url":"https:\/\/www.renovabe.com.br\/"}]}],"language":"pt_BR","status":"APPROVED","category":"UTILITY","library_template_name":"statement_available_2","id":"1388955355483735"},{"name":"mensagem_default_pix_initial","parameter_format":"POSITIONAL","components":[{"type":"HEADER","format":"TEXT","text":"Atualiza\u00e7\u00e3o do seu pedido"},{"type":"BODY","text":"Ol\u00e1, {{1}}, esperamos que voc\u00ea esteja bem! \ud83d\ude0a\n\nGostar\u00edamos de informar sobre a atualiza\u00e7\u00e3o referente \u00e0 sua compra:\n{{2}}","example":{"body_text":[["Renovabe","Mensagem Pix"]]}},{"type":"BUTTONS","buttons":[{"type":"QUICK_REPLY","text":"Quero receber a chave pix"},{"type":"QUICK_REPLY","text":"N\u00e3o quero mais aviso"}]}],"language":"en","status":"APPROVED","category":"UTILITY","sub_category":"CUSTOM","id":"1504704747157045"},{"name":"mensagem_default","parameter_format":"POSITIONAL","components":[{"type":"HEADER","format":"TEXT","text":"Atualiza\u00e7\u00e3o do seu Pedido"},{"type":"BODY","text":"Ol\u00e1, {{1}}, esperamos que voc\u00ea esteja bem! \ud83d\ude0a\n\nGostar\u00edamos de informar sobre a atualiza\u00e7\u00e3o referente \u00e0 sua compra:\n{{2}}","example":{"body_text":[["Renovabe","Mensagem"]]}}],"language":"en","status":"APPROVED","category":"UTILITY","sub_category":"CUSTOM","id":"570430149439840"},{"name":"mensagem_entregue_nps","parameter_format":"POSITIONAL","components":[{"type":"HEADER","format":"TEXT","text":"Atualiza\u00e7\u00e3o do seu pedido"},{"type":"BODY","text":"{{1}}, tudo bem?\n\n{{2}}\n\nAdorar\u00edamos saber o que achou da sua experi\u00eancia com a Renova Be.\n\u00c9 rapidinho (leva menos de 1 minuto!) e nos ajuda bastante a melhorar. \ud83d\udcac\u2728\n\nBasta clicar no link no bot\u00e3o abaixo\n\nMuito obrigado por fazer parte da nossa hist\u00f3ria! \ud83d\udc96","example":{"body_text":[["Cliente","Mensagem Entregue"]]}},{"type":"BUTTONS","buttons":[{"type":"URL","text":"Acessar a pesquisa","url":"https:\/\/forms.office.com\/r\/WbfUmA1smj"}]}],"language":"en_US","status":"APPROVED","category":"UTILITY","sub_category":"CUSTOM","id":"665204303088397"},{"name":"hello_world","parameter_format":"POSITIONAL","components":[{"type":"HEADER","format":"TEXT","text":"Hello World"},{"type":"BODY","text":"Welcome and congratulations!! This message demonstrates your ability to send a WhatsApp message notification from the Cloud API, hosted by Meta. Thank you for taking the time to test with us."},{"type":"FOOTER","text":"WhatsApp Business Platform sample message"}],"language":"en_US","status":"APPROVED","category":"UTILITY","id":"1235656394680975"},{"name":"transacional_chave","parameter_format":"POSITIONAL","components":[{"type":"BODY","text":"*{{1}}* is your verification code.","example":{"body_text":[["123456"]]}},{"type":"BUTTONS","buttons":[{"type":"URL","text":"Copy code","url":"https:\/\/www.whatsapp.com\/otp\/code\/?otp_type=COPY_CODE&code=otp{{1}}","example":["https:\/\/www.whatsapp.com\/otp\/code\/?otp_type=COPY_CODE&code=otp123456"]}]}],"language":"en_US","status":"APPROVED","category":"AUTHENTICATION","library_template_name":"verify_code_1","id":"648364148037994"}],"paging":{"cursors":{"before":"MAZDZD","after":"MjQZD"}}}
+2025/05/09 10:43:42 ✅ Template cashback_disponivel confirmado como UTILITY
+2025/05/09 10:43:42 ✅ Verificação concluída. Iniciando envio...
+2025/05/09 10:43:42 Buscando até 250 mensagens não enviadas do banco de dados
+2025/05/09 10:43:42 Encontradas 4 mensagens para envio
+2025/05/09 10:43:42 📤 Processando lote #1: 4 mensagens
+2025/05/09 10:43:42 Enviando mensagem para Rafael (Pedido: RENOVABE-12312312) usando template: cashback_disponivel
+2025/05/09 10:43:42 ✅ Template cashback_disponivel verificado: categoria UTILITY
+2025/05/09 10:43:42 Preparando envio para Rafael (Pedido: RENOVABE-12312312) usando template: cashback_disponivel
+2025/05/09 10:43:42 Enviando requisição para: https://graph.facebook.com/v22.0/632949086568086/messages
+2025/05/09 10:43:42 Enviando mensagem para Vitor (Pedido: RENOVABE-12312313) usando template: cashback_disponivel
+2025/05/09 10:43:42 ✅ Template cashback_disponivel verificado: categoria UTILITY
+2025/05/09 10:43:42 Preparando envio para Vitor (Pedido: RENOVABE-12312313) usando template: cashback_disponivel
+2025/05/09 10:43:42 Enviando requisição para: https://graph.facebook.com/v22.0/632949086568086/messages
+2025/05/09 10:43:42 Enviando mensagem para Vitor 2 (Pedido: RENOVABE-12312314) usando template: cashback_disponivel
+2025/05/09 10:43:42 ✅ Template cashback_disponivel verificado: categoria UTILITY
+2025/05/09 10:43:42 Preparando envio para Vitor 2 (Pedido: RENOVABE-12312314) usando template: cashback_disponivel
+2025/05/09 10:43:42 Enviando mensagem para Vitor 3 (Pedido: RENOVABE-12312315) usando template: cashback_disponivel
+2025/05/09 10:43:42 ✅ Template cashback_disponivel verificado: categoria UTILITY
+2025/05/09 10:43:42 Preparando envio para Vitor 3 (Pedido: RENOVABE-12312315) usando template: cashback_disponivel
+2025/05/09 10:43:42 Enviando requisição para: https://graph.facebook.com/v22.0/632949086568086/messages
+2025/05/09 10:43:42 Enviando requisição para: https://graph.facebook.com/v22.0/632949086568086/messages
+2025/05/09 10:43:43 ✅ Mensagem enviada para: Vitor 2 (Pedido: RENOVABE-12312314)
+2025/05/09 10:43:43    - ID da mensagem: wamid.HBgNNTUxOTk5Mjk3NjkwMhUCABEYEjBFMTZENUEzRTNCREU5MEI5OQA=
+2025/05/09 10:43:43    - Status: accepted
+2025/05/09 10:43:43    - WhatsApp ID: 5519992976902
+2025/05/09 10:43:43 Resposta completa: {"messaging_product":"whatsapp","contacts":[{"input":"19992976902","wa_id":"5519992976902"}],"messages":[{"id":"wamid.HBgNNTUxOTk5Mjk3NjkwMhUCABEYEjBFMTZENUEzRTNCREU5MEI5OQA=","message_status":"accepted"}]}
+2025/05/09 10:43:43 Marcando pedido RENOVABE-12312314 como enviado
+2025/05/09 10:43:43 Pedido RENOVABE-12312314 marcado como enviado com sucesso
+2025/05/09 10:43:43 ✅ Mensagem enviada para: Vitor 3 (Pedido: RENOVABE-12312315)
+2025/05/09 10:43:43    - ID da mensagem: wamid.HBgNNTUxOTk5NTMxNjg0NRUCABEYEkZBQjc3REI1RDkxRjM2NzVGNQA=
+2025/05/09 10:43:43    - Status: accepted
+2025/05/09 10:43:43    - WhatsApp ID: 5519995316845
+2025/05/09 10:43:43 Resposta completa: {"messaging_product":"whatsapp","contacts":[{"input":"19995316845","wa_id":"5519995316845"}],"messages":[{"id":"wamid.HBgNNTUxOTk5NTMxNjg0NRUCABEYEkZBQjc3REI1RDkxRjM2NzVGNQA=","message_status":"accepted"}]}
+2025/05/09 10:43:43 Marcando pedido RENOVABE-12312315 como enviado
+2025/05/09 10:43:43 Pedido RENOVABE-12312315 marcado como enviado com sucesso
+2025/05/09 10:43:43 ✅ Mensagem enviada para: Rafael (Pedido: RENOVABE-12312312)
+2025/05/09 10:43:43    - ID da mensagem: wamid.HBgNNTUxOTk5Mjg2NDIyMhUCABEYEjNCNkYyREFDMjlCNTlBQzA1NAA=
+2025/05/09 10:43:43    - Status: accepted
+2025/05/09 10:43:43    - WhatsApp ID: 5519992864222
+2025/05/09 10:43:43 Resposta completa: {"messaging_product":"whatsapp","contacts":[{"input":"19992864222","wa_id":"5519992864222"}],"messages":[{"id":"wamid.HBgNNTUxOTk5Mjg2NDIyMhUCABEYEjNCNkYyREFDMjlCNTlBQzA1NAA=","message_status":"accepted"}]}
+2025/05/09 10:43:43 Marcando pedido RENOVABE-12312312 como enviado
+2025/05/09 10:43:43 Pedido RENOVABE-12312312 marcado como enviado com sucesso
+2025/05/09 10:43:43 ✅ Mensagem enviada para: Vitor (Pedido: RENOVABE-12312313)
+2025/05/09 10:43:43    - ID da mensagem: wamid.HBgNNTUxOTk5MTEyMjA3MBUCABEYEjJEMUJFMURDRjNCMzI1OUU4OQA=
+2025/05/09 10:43:43    - Status: accepted
+2025/05/09 10:43:43    - WhatsApp ID: 5519991122070
+2025/05/09 10:43:43 Resposta completa: {"messaging_product":"whatsapp","contacts":[{"input":"19991122070","wa_id":"5519991122070"}],"messages":[{"id":"wamid.HBgNNTUxOTk5MTEyMjA3MBUCABEYEjJEMUJFMURDRjNCMzI1OUU4OQA=","message_status":"accepted"}]}
+2025/05/09 10:43:43 Marcando pedido RENOVABE-12312313 como enviado
+2025/05/09 10:43:43 Pedido RENOVABE-12312313 marcado como enviado com sucesso
+2025/05/09 10:43:43 ✅ Lote #1 concluído. Total enviado: 4/1000
+2025/05/09 10:43:43 Buscando até 250 mensagens não enviadas do banco de dados
+2025/05/09 10:43:43 Encontradas 0 mensagens para envio
+2025/05/09 10:43:43 📊 Não há mais mensagens para processar
+2025/05/09 10:43:44 
+📊 RESULTADOS FINAIS:
+2025/05/09 10:43:44 • Total processado: 4
+2025/05/09 10:43:44 • Enviados com sucesso: 4
+2025/05/09 10:43:44 • Envios falhados: 0
+2025/05/09 10:43:44 • Taxa de sucesso: 100.00%
+2025/05/09 10:43:44 
+✅ Processo concluído! Verifique as estatísticas detalhadas em stats/estatisticas.txt

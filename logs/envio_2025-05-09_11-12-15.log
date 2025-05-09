@@ -1,0 +1,14 @@
+2025/05/09 11:12:15 🚀 Iniciando processo de envio em massa
+2025/05/09 11:12:15 🔍 Verificando template na API
+2025/05/09 11:12:16 ✅ Template confirmado. Iniciando envio...
+2025/05/09 11:12:16 📤 Processando lote #1: 6 mensagens
+2025/05/09 11:12:16 ✅ Lote #1: 6/1000 mensagens enviadas
+2025/05/09 11:12:17 📊 Não há mais mensagens para processar
+2025/05/09 11:12:17 
+📊 RESULTADOS:
+2025/05/09 11:12:17 • Processado: 6
+2025/05/09 11:12:17 • Sucesso: 6
+2025/05/09 11:12:17 • Falhas: 0
+2025/05/09 11:12:17 • Taxa de sucesso: 100.00%
+2025/05/09 11:12:17 
+✅ Concluído! Detalhes em stats/estatisticas.txt
