@@ -1,0 +1,22 @@
+2025/05/10 12:27:29 🚀 Iniciando processo de envio controlado
+2025/05/10 12:27:41 🚀 Iniciando com taxa de 20 mensagens por segundo
+2025/05/10 12:27:41 ⏱️ Processando lotes de 1000 mensagens a cada 5m0s
+2025/05/10 12:27:41 🔍 Verificando template: transacional_mes_maes_4
+2025/05/10 12:27:41 ✅ Template transacional_mes_maes_4 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/10 12:27:42 Número 12997622401 já processado anteriormente, marcando pedido RENOVABE-2780167 como enviado
+2025/05/10 12:27:42 📤 Processando lote #1: 999 mensagens
+2025/05/10 12:27:43 ✅ Estável por 10s. Taxa aumentada para 22 msgs/seg
+2025/05/10 12:27:43 ✅ Estável por 10s. Taxa aumentada para 24 msgs/seg
+2025/05/10 12:27:43 ✅ Estável por 10s. Taxa aumentada para 26 msgs/seg
+2025/05/10 12:27:43 ✅ Estável por 10s. Taxa aumentada para 28 msgs/seg
+2025/05/10 12:27:43 ✅ Estável por 10s. Taxa aumentada para 30 msgs/seg
+2025/05/10 12:27:43 ✅ Estável por 10s. Taxa aumentada para 32 msgs/seg
+2025/05/10 12:27:43 ✅ Estável por 10s. Taxa aumentada para 34 msgs/seg
+2025/05/10 12:27:43 ✅ Estável por 10s. Taxa aumentada para 36 msgs/seg
+2025/05/10 12:27:43 ✅ Estável por 10s. Taxa aumentada para 38 msgs/seg
+2025/05/10 12:27:43 ✅ Estável por 10s. Taxa aumentada para 40 msgs/seg
+2025/05/10 12:27:43 ✅ Estável por 10s. Taxa aumentada para 42 msgs/seg
+2025/05/10 12:27:43 ✅ Estável por 10s. Taxa aumentada para 44 msgs/seg
+2025/05/10 12:27:44 ✅ Estável por 10s. Taxa aumentada para 46 msgs/seg
+2025/05/10 12:27:44 ✅ Estável por 10s. Taxa aumentada para 48 msgs/seg
+2025/05/10 12:27:44 ✅ Estável por 10s. Taxa aumentada para 50 msgs/seg

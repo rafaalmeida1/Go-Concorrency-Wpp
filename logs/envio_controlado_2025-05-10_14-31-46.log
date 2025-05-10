@@ -1,0 +1,18 @@
+2025/05/10 14:31:46 🚀 Iniciando processo de envio controlado
+2025/05/10 14:31:48 🚀 Iniciando com taxa de 20 mensagens por segundo
+2025/05/10 14:31:48 ⏱️ Processando lotes de 1000 mensagens a cada 5m0s
+2025/05/10 14:31:48 🔍 Verificando template: transacional_maes_mes_9
+2025/05/10 14:31:49 📋 Informações do template 'transacional_maes_mes_9':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/10 14:31:49 ✅ Template transacional_maes_mes_9 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/10 14:31:49 📤 Processando lote #1: 1000 mensagens
+2025/05/10 14:32:35 ✅ Lote #1: 1000/100000 mensagens enviadas
+2025/05/10 14:32:35 ⏳ Aguardando 4m19s para o próximo lote...
+2025/05/10 14:37:16 🔍 Verificando template: transacional_maes_mes_9
+2025/05/10 14:37:16 📋 Informações do template 'transacional_maes_mes_9':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 14:37:16 ✅ Template transacional_maes_mes_9 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/10 14:37:16 📤 Processando lote #2: 1000 mensagens
+2025/05/10 14:37:23 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"Al5T61hFtLNIHW51RkAnmlU"}}

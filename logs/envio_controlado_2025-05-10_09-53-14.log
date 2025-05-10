@@ -1,0 +1,29 @@
+2025/05/10 09:53:14 🚀 Iniciando processo de envio controlado
+2025/05/10 09:53:16 🚀 Iniciando com taxa de 50 mensagens por segundo
+2025/05/10 09:53:16 ⏱️ Processando lotes de 1000 mensagens a cada 5m0s
+2025/05/10 09:53:16 🔍 Verificando template: transacional_mes_maes_4
+2025/05/10 09:53:17 ✅ Template transacional_mes_maes_4 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/10 09:53:17 Número 31971724131 já processado anteriormente, marcando pedido RENOVABE-2703221 como enviado
+2025/05/10 09:53:17 📤 Processando lote #1: 999 mensagens
+2025/05/10 09:53:25 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"Ane2gffISzNO_CPJrpl_wnX"}}
+2025/05/10 09:53:31 ✅ Lote #1: 999/100000 mensagens enviadas
+2025/05/10 09:53:31 ⏳ Aguardando 4m46s para o próximo lote...
+2025/05/10 09:58:30 🔍 Verificando template: transacional_mes_maes_4
+2025/05/10 09:58:30 ✅ Template transacional_mes_maes_4 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/10 09:58:30 📤 Processando lote #2: 1000 mensagens
+2025/05/10 09:59:06 ✅ Lote #2: 1999/100000 mensagens enviadas
+2025/05/10 09:59:06 ⏳ Aguardando 4m25s para o próximo lote...
+2025/05/10 10:03:43 🔍 Verificando template: transacional_mes_maes_4
+2025/05/10 10:03:43 ✅ Template transacional_mes_maes_4 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/10 10:03:43 Número 61985263419 já processado anteriormente, marcando pedido RENOVABE-2708915 como enviado
+2025/05/10 10:03:43 📤 Processando lote #3: 999 mensagens
+2025/05/10 10:03:58 ✅ Lote #3: 2998/100000 mensagens enviadas
+2025/05/10 10:03:58 ⏳ Aguardando 4m46s para o próximo lote...
+2025/05/10 10:08:56 🔍 Verificando template: transacional_mes_maes_4
+2025/05/10 10:08:56 ✅ Template transacional_mes_maes_4 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/10 10:08:56 Número 73982582064 já processado anteriormente, marcando pedido RENOVABE-2709332 como enviado
+2025/05/10 10:08:56 Número 94981900393 já processado anteriormente, marcando pedido RENOVABE-2710252 como enviado
+2025/05/10 10:08:56 Número 88993282268 já processado anteriormente, marcando pedido RENOVABE-2711202 como enviado
+2025/05/10 10:08:56 📤 Processando lote #4: 997 mensagens
+2025/05/10 10:09:21 ✅ Lote #4: 3995/100000 mensagens enviadas
+2025/05/10 10:09:21 ⏳ Aguardando 4m35s para o próximo lote...

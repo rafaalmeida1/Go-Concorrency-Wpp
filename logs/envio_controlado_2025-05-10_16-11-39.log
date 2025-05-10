@@ -1,0 +1,33 @@
+2025/05/10 16:11:39 🚀 Iniciando processo de envio controlado
+2025/05/10 16:11:45 🚀 Iniciando com taxa de 20 mensagens por segundo
+2025/05/10 16:11:45 ⏱️ Processando lotes de 1000 mensagens a cada 5m0s
+2025/05/10 16:11:45 🔍 Verificando template: transacional_maes_mes_9
+2025/05/10 16:11:46 📋 Informações do template 'transacional_maes_mes_9':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/10 16:11:46 ✅ Template transacional_maes_mes_9 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/10 16:11:46 📤 Processando lote #1: 1000 mensagens
+2025/05/10 16:12:25 ✅ Lote #1: 1000/100000 mensagens enviadas
+2025/05/10 16:12:25 ⏳ Aguardando 4m24s para o próximo lote...
+2025/05/10 16:17:13 🔍 Verificando template: transacional_maes_mes_9
+2025/05/10 16:17:13 📋 Informações do template 'transacional_maes_mes_9':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 16:17:13 ✅ Template transacional_maes_mes_9 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/10 16:17:13 Número 31996830793 já processado anteriormente, marcando pedido RENOVABE-3262667 como enviado
+2025/05/10 16:17:13 Número 31996830793 já processado anteriormente, marcando pedido RENOVABE-3263402 como enviado
+2025/05/10 16:17:13 📤 Processando lote #2: 998 mensagens
+2025/05/10 16:17:49 ✅ Lote #2: 1998/100000 mensagens enviadas
+2025/05/10 16:17:49 ⏳ Aguardando 4m27s para o próximo lote...
+2025/05/10 16:22:29 🔍 Verificando template: transacional_maes_mes_9
+2025/05/10 16:22:29 📋 Informações do template 'transacional_maes_mes_9':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 16:22:29 ✅ Template transacional_maes_mes_9 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/10 16:22:29 Número  já processado anteriormente, marcando pedido RENOVABE-3264954 como enviado
+2025/05/10 16:22:29 Número 66999828433 já processado anteriormente, marcando pedido RENOVABE-3266307 como enviado
+2025/05/10 16:22:29 Número 66999626404 já processado anteriormente, marcando pedido RENOVABE-3266922 como enviado
+2025/05/10 16:22:29 📤 Processando lote #3: 997 mensagens
+2025/05/10 16:22:33 Erro 400: {"error":{"message":"The parameter to is required.","type":"OAuthException","code":100,"fbtrace_id":"AvUGnFVrVEcLRBhdAZuRkV7"}}
+2025/05/10 16:23:12 ✅ Lote #3: 2995/100000 mensagens enviadas
+2025/05/10 16:23:12 ⏳ Aguardando 4m19s para o próximo lote...

@@ -1,0 +1,11 @@
+2025/05/10 14:40:27 🚀 Iniciando processo de envio controlado
+2025/05/10 14:40:28 🚀 Iniciando com taxa de 20 mensagens por segundo
+2025/05/10 14:40:28 ⏱️ Processando lotes de 1000 mensagens a cada 5m0s
+2025/05/10 14:40:28 🔍 Verificando template: transacional_maes_mes_9
+2025/05/10 14:40:29 📋 Informações do template 'transacional_maes_mes_9':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/10 14:40:29 ✅ Template transacional_maes_mes_9 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/10 14:40:29 📤 Processando lote #1: 1000 mensagens
+2025/05/10 14:41:14 ✅ Lote #1: 1000/100000 mensagens enviadas
+2025/05/10 14:41:14 ⏳ Aguardando 4m20s para o próximo lote...

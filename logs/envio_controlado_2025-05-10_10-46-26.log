@@ -1,0 +1,24 @@
+2025/05/10 10:46:26 🚀 Iniciando processo de envio controlado
+2025/05/10 10:46:29 🚀 Iniciando com taxa de 50 mensagens por segundo
+2025/05/10 10:46:29 ⏱️ Processando lotes de 1000 mensagens a cada 5m0s
+2025/05/10 10:46:29 🔍 Verificando template: transacional_mes_maes_6
+2025/05/10 10:46:29 ✅ Template transacional_mes_maes_6 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/10 10:46:29 Número 19989088128 já processado anteriormente, marcando pedido RENOVABE-2734458 como enviado
+2025/05/10 10:46:29 📤 Processando lote #1: 999 mensagens
+2025/05/10 10:46:44 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"A-lnoeGkyxyDOzVrcvpFsSy"}}
+2025/05/10 10:46:45 ✅ Lote #1: 999/100000 mensagens enviadas
+2025/05/10 10:46:45 ⏳ Aguardando 4m46s para o próximo lote...
+2025/05/10 10:51:48 🔍 Verificando template: transacional_mes_maes_6
+2025/05/10 10:51:48 ✅ Template transacional_mes_maes_6 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/10 10:51:48 📤 Processando lote #2: 1000 mensagens
+2025/05/10 10:52:03 ✅ Lote #2: 1999/100000 mensagens enviadas
+2025/05/10 10:52:03 ⏳ Aguardando 4m46s para o próximo lote...
+2025/05/10 10:52:04 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"A-nD6pztJlxtytToJ3K85O-"}}
+2025/05/10 10:57:06 🔍 Verificando template: transacional_mes_maes_6
+2025/05/10 10:57:06 ✅ Template transacional_mes_maes_6 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/10 10:57:06 Número 93991379659 já processado anteriormente, marcando pedido RENOVABE-2738492 como enviado
+2025/05/10 10:57:06 Número 11984588569 já processado anteriormente, marcando pedido RENOVABE-2739251 como enviado
+2025/05/10 10:57:06 Número 85994060579 já processado anteriormente, marcando pedido RENOVABE-2739508 como enviado
+2025/05/10 10:57:06 📤 Processando lote #3: 997 mensagens
+2025/05/10 10:57:23 ✅ Lote #3: 2996/100000 mensagens enviadas
+2025/05/10 10:57:23 ⏳ Aguardando 4m46s para o próximo lote...

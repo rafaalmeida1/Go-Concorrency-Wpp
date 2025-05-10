@@ -1,0 +1,410 @@
+2025/05/10 12:37:02 🚀 Iniciando processo de envio controlado
+2025/05/10 12:37:04 🚀 Iniciando com taxa de 20 mensagens por segundo
+2025/05/10 12:37:04 ⏱️ Processando lotes de 1000 mensagens a cada 5m0s
+2025/05/10 12:37:04 🔍 Verificando template: transacional_mes_maes_4
+2025/05/10 12:37:05 📋 Informações do template 'transacional_mes_maes_4':
+   - Categoria: UTILITY
+   - Status: PAUSED
+2025/05/10 12:37:05 ⏸️ Template transacional_mes_maes_4 está PAUSADO. Tentando próximo template...
+2025/05/10 12:37:05 🔍 Verificando template: transacional_mes_maes_2
+2025/05/10 12:37:05 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/10 12:37:05 ✅ Template transacional_mes_maes_2 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/10 12:37:05 📤 Processando lote #1: 1000 mensagens
+2025/05/10 12:37:05 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:05 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:05 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:05 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:05 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:05 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:05 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:05 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:05 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:05 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:05 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:05 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:05 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:05 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:05 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:05 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:05 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:05 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:05 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:05 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:06 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:06 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:06 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:06 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:06 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:06 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:06 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:06 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:06 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:06 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:06 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:06 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:06 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:06 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:06 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:06 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:06 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:06 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:06 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:06 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:07 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:07 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:07 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:07 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:07 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:07 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:07 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:07 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:07 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:07 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:07 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:07 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:07 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:07 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:07 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:07 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:07 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:07 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:07 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:08 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:08 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:08 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:08 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:08 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:08 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:08 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:08 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:08 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:08 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:08 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:08 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:08 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:08 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:08 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:08 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:08 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:08 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:08 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:08 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:09 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:09 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:09 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:09 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:09 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:09 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:09 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:09 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:09 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:09 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:09 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:09 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:09 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:09 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:09 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:09 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:09 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:10 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:10 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:10 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:10 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:10 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:10 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:10 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:10 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:10 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:10 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:10 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:10 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:10 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:10 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:10 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:10 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:10 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:10 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:10 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:11 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:11 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:11 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:11 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:11 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:11 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:11 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:11 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:11 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:11 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:11 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:11 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:11 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:11 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:11 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:11 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 12:37:11 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 

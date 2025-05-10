@@ -1,0 +1,19 @@
+2025/05/10 10:43:34 🚀 Iniciando processo de envio controlado
+2025/05/10 10:43:42 🚀 Iniciando com taxa de 50 mensagens por segundo
+2025/05/10 10:43:42 ⏱️ Processando lotes de 1000 mensagens a cada 5m0s
+2025/05/10 10:43:42 🔍 Verificando template: transacional_mes_maes_5
+2025/05/10 10:43:43 ✅ Template transacional_mes_maes_5 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/10 10:43:43 Número 47991674908 já processado anteriormente, marcando pedido RENOVABE-2729934 como enviado
+2025/05/10 10:43:43 Número 16993099842 já processado anteriormente, marcando pedido RENOVABE-2730415 como enviado
+2025/05/10 10:43:43 📤 Processando lote #1: 998 mensagens
+2025/05/10 10:43:44 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"AlJRiMsMCek5iTDd_4Y3ivl"}}
+2025/05/10 10:43:52 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"AsObgXl2WyYjeLUoOTOj09n"}}
+2025/05/10 10:43:57 ✅ Lote #1: 998/100000 mensagens enviadas
+2025/05/10 10:43:57 ⏳ Aguardando 4m46s para o próximo lote...
+2025/05/10 10:44:04 🔍 Verificando template: transacional_mes_maes_5
+2025/05/10 10:44:04 ✅ Template transacional_mes_maes_5 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/10 10:44:04 Número 11984165381 já processado anteriormente, marcando pedido RENOVABE-2732689 como enviado
+2025/05/10 10:44:04 Número 11956552682 já processado anteriormente, marcando pedido RENOVABE-2732801 como enviado
+2025/05/10 10:44:04 📤 Processando lote #2: 998 mensagens
+2025/05/10 10:44:21 ✅ Lote #2: 1996/100000 mensagens enviadas
+2025/05/10 10:44:21 ⏳ Aguardando 4m46s para o próximo lote...

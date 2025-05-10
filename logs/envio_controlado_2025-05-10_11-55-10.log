@@ -1,0 +1,28 @@
+2025/05/10 11:55:10 🚀 Iniciando processo de envio controlado
+2025/05/10 11:55:13 🚀 Iniciando com taxa de 50 mensagens por segundo
+2025/05/10 11:55:13 ⏱️ Processando lotes de 1000 mensagens a cada 5m0s
+2025/05/10 11:55:13 🔍 Verificando template: transacional_mes_maes_7
+2025/05/10 11:55:13 ✅ Template transacional_mes_maes_7 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/10 11:55:13 📤 Processando lote #1: 1000 mensagens
+2025/05/10 11:55:21 Erro 500: {"error":{"message":"(#131000) Something went wrong","type":"OAuthException","code":131000,"error_data":{"messaging_product":"whatsapp","details":"Something went wrong"},"fbtrace_id":"AL7M_Wq-2SNR43hfhnzEOlU"}}
+2025/05/10 11:55:21 Erro 500: {"error":{"message":"(#131000) Something went wrong","type":"OAuthException","code":131000,"error_data":{"messaging_product":"whatsapp","details":"Something went wrong"},"fbtrace_id":"A3mY9dJsbMT9SYOR6VeJVlw"}}
+2025/05/10 11:55:21 Erro 500: {"error":{"message":"(#131000) Something went wrong","type":"OAuthException","code":131000,"error_data":{"messaging_product":"whatsapp","details":"Something went wrong"},"fbtrace_id":"AE70a1gS79M8F2KrafHsbrk"}}
+2025/05/10 11:55:21 Erro 500: {"error":{"message":"(#131000) Something went wrong","type":"OAuthException","code":131000,"error_data":{"messaging_product":"whatsapp","details":"Something went wrong"},"fbtrace_id":"A0b7xQmlVno0NUcvdkLT9jA"}}
+2025/05/10 11:55:21 Erro 500: {"error":{"message":"(#131000) Something went wrong","type":"OAuthException","code":131000,"error_data":{"messaging_product":"whatsapp","details":"Something went wrong"},"fbtrace_id":"AY14vUr3uMhVPwyfqz4QqpY"}}
+2025/05/10 11:55:21 Erro 500: {"error":{"message":"(#131000) Something went wrong","type":"OAuthException","code":131000,"error_data":{"messaging_product":"whatsapp","details":"Something went wrong"},"fbtrace_id":"AK3FqN2x8jpyhGGBNbAu3xC"}}
+2025/05/10 11:55:22 Erro 500: {"error":{"message":"(#131000) Something went wrong","type":"OAuthException","code":131000,"error_data":{"messaging_product":"whatsapp","details":"Something went wrong"},"fbtrace_id":"APFF1VPHlbMxtQgzRpSWHYk"}}
+2025/05/10 11:55:22 Erro 500: {"error":{"message":"(#131000) Something went wrong","type":"OAuthException","code":131000,"error_data":{"messaging_product":"whatsapp","details":"Something went wrong"},"fbtrace_id":"At0oYUj7CNgu5MXEqlZyE6t"}}
+2025/05/10 11:55:23 Erro 500: {"error":{"message":"(#131000) Something went wrong","type":"OAuthException","code":131000,"error_data":{"messaging_product":"whatsapp","details":"Something went wrong"},"fbtrace_id":"Ag2xb3CvJ2kapunmSTJQ4Nf"}}
+2025/05/10 11:55:31 ✅ Lote #1: 1000/100000 mensagens enviadas
+2025/05/10 11:55:31 ⏳ Aguardando 4m44s para o próximo lote...
+2025/05/10 12:00:32 🔍 Verificando template: transacional_mes_maes_7
+2025/05/10 12:00:32 ✅ Template transacional_mes_maes_7 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/10 12:00:32 📤 Processando lote #2: 1000 mensagens
+2025/05/10 12:00:32 Erro ao enviar: Post "https://graph.facebook.com/v22.0/463842236808276/messages": read tcp 172.28.170.200:51076->157.240.244.14:443: read: connection reset by peer
+2025/05/10 12:00:51 ✅ Lote #2: 2000/100000 mensagens enviadas
+2025/05/10 12:00:51 ⏳ Aguardando 4m42s para o próximo lote...
+2025/05/10 12:05:50 🔍 Verificando template: transacional_mes_maes_7
+2025/05/10 12:05:50 ✅ Template transacional_mes_maes_7 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/10 12:05:50 📤 Processando lote #3: 1000 mensagens
+2025/05/10 12:06:19 ✅ Lote #3: 3000/100000 mensagens enviadas
+2025/05/10 12:06:19 ⏳ Aguardando 4m33s para o próximo lote...

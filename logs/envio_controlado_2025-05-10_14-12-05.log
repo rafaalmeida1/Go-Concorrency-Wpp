@@ -1,0 +1,50 @@
+2025/05/10 14:12:05 🚀 Iniciando processo de envio controlado
+2025/05/10 14:12:11 🚀 Iniciando com taxa de 20 mensagens por segundo
+2025/05/10 14:12:11 ⏱️ Processando lotes de 1000 mensagens a cada 5m0s
+2025/05/10 14:12:11 🔍 Verificando template: transacional_maes_mes_8
+2025/05/10 14:12:12 📋 Informações do template 'transacional_maes_mes_8':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/10 14:12:12 ✅ Template transacional_maes_mes_8 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/10 14:12:12 📤 Processando lote #1: 1000 mensagens
+2025/05/10 14:12:25 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"A0j5V3mLXUi3OmhgrIbMQFU"}}
+2025/05/10 14:12:29 Erro 400: {"error":{"message":"The parameter to is required.","type":"OAuthException","code":100,"fbtrace_id":"Aqj7YgZGfMUKFYpE7fnkxY4"}}
+2025/05/10 14:12:49 ✅ Lote #1: 1000/100000 mensagens enviadas
+2025/05/10 14:12:49 ⏳ Aguardando 4m25s para o próximo lote...
+2025/05/10 14:17:30 🔍 Verificando template: transacional_maes_mes_8
+2025/05/10 14:17:30 📋 Informações do template 'transacional_maes_mes_8':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 14:17:30 ✅ Template transacional_maes_mes_8 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/10 14:17:30 📤 Processando lote #2: 1000 mensagens
+2025/05/10 14:17:45 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"AuX4XwylcDVFcTyHQT44yty"}}
+2025/05/10 14:17:58 ✅ Lote #2: 2000/100000 mensagens enviadas
+2025/05/10 14:17:58 ⏳ Aguardando 4m33s para o próximo lote...
+2025/05/10 14:22:46 🔍 Verificando template: transacional_maes_mes_8
+2025/05/10 14:22:46 📋 Informações do template 'transacional_maes_mes_8':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/10 14:22:46 ✅ Template transacional_maes_mes_8 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/10 14:22:46 📤 Processando lote #3: 1000 mensagens
+2025/05/10 14:23:21 ✅ Lote #3: 3000/100000 mensagens enviadas
+2025/05/10 14:23:21 ⏳ Aguardando 4m26s para o próximo lote...
+2025/05/10 14:27:38 Erro ao enviar: Post "https://graph.facebook.com/v22.0/463842236808276/messages": read tcp 172.28.170.200:40878->157.240.244.14:443: read: connection reset by peer
+2025/05/10 14:27:38 Erro ao enviar: Post "https://graph.facebook.com/v22.0/463842236808276/messages": read tcp 172.28.170.200:40878->157.240.244.14:443: read: connection reset by peer
+2025/05/10 14:27:38 Erro ao enviar: Post "https://graph.facebook.com/v22.0/463842236808276/messages": read tcp 172.28.170.200:40878->157.240.244.14:443: read: connection reset by peer
+2025/05/10 14:27:38 Erro ao enviar: Post "https://graph.facebook.com/v22.0/463842236808276/messages": read tcp 172.28.170.200:40878->157.240.244.14:443: read: connection reset by peer
+2025/05/10 14:27:38 Erro ao enviar: Post "https://graph.facebook.com/v22.0/463842236808276/messages": read tcp 172.28.170.200:40878->157.240.244.14:443: read: connection reset by peer
+2025/05/10 14:27:38 Erro ao enviar: Post "https://graph.facebook.com/v22.0/463842236808276/messages": read tcp 172.28.170.200:40878->157.240.244.14:443: read: connection reset by peer
+2025/05/10 14:27:38 Erro ao enviar: Post "https://graph.facebook.com/v22.0/463842236808276/messages": read tcp 172.28.170.200:40878->157.240.244.14:443: read: connection reset by peer
+2025/05/10 14:27:38 Erro ao enviar: Post "https://graph.facebook.com/v22.0/463842236808276/messages": read tcp 172.28.170.200:40878->157.240.244.14:443: read: connection reset by peer
+2025/05/10 14:27:38 Erro ao enviar: Post "https://graph.facebook.com/v22.0/463842236808276/messages": read tcp 172.28.170.200:40878->157.240.244.14:443: read: connection reset by peer
+2025/05/10 14:27:38 Erro ao enviar: Post "https://graph.facebook.com/v22.0/463842236808276/messages": read tcp 172.28.170.200:40878->157.240.244.14:443: read: connection reset by peer
+2025/05/10 14:27:38 Erro ao enviar: Post "https://graph.facebook.com/v22.0/463842236808276/messages": read tcp 172.28.170.200:40878->157.240.244.14:443: read: connection reset by peer
+2025/05/10 14:27:38 Erro ao enviar: Post "https://graph.facebook.com/v22.0/463842236808276/messages": read tcp 172.28.170.200:40878->157.240.244.14:443: read: connection reset by peer
+2025/05/10 14:27:38 Erro ao enviar: Post "https://graph.facebook.com/v22.0/463842236808276/messages": read tcp 172.28.170.200:40878->157.240.244.14:443: read: connection reset by peer
+2025/05/10 14:27:38 Erro ao enviar: Post "https://graph.facebook.com/v22.0/463842236808276/messages": read tcp 172.28.170.200:40878->157.240.244.14:443: read: connection reset by peer
+2025/05/10 14:27:38 Erro ao enviar: Post "https://graph.facebook.com/v22.0/463842236808276/messages": read tcp 172.28.170.200:40878->157.240.244.14:443: read: connection reset by peer
+2025/05/10 14:27:38 Erro ao enviar: Post "https://graph.facebook.com/v22.0/463842236808276/messages": read tcp 172.28.170.200:40878->157.240.244.14:443: read: connection reset by peer
+2025/05/10 14:27:38 Erro ao enviar: Post "https://graph.facebook.com/v22.0/463842236808276/messages": read tcp 172.28.170.200:40878->157.240.244.14:443: read: connection reset by peer
+2025/05/10 14:27:38 Erro ao enviar: Post "https://graph.facebook.com/v22.0/463842236808276/messages": read tcp 172.28.170.200:40878->157.240.244.14:443: read: connection reset by peer
+2025/05/10 14:27:38 Erro ao enviar: Post "https://graph.facebook.com/v22.0/463842236808276/messages": read tcp 172.28.170.200:40878->157.240.244.14:443: read: connection reset by peer
+2025/05/10 14:27:38 Erro ao enviar: Post "https://graph.facebook.com/v22.0/463842236808276/messages": read tcp 172.28.170.200:40878->157.240.244.14:443: read: connection reset by peer
