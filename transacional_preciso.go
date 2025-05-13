@@ -89,7 +89,7 @@ var (
 	rateLimitAtingido  int64
 	
 	// Controle de taxa
-	taxaEnvio          int32 = 50 // Taxa inicial: 50 msgs/seg
+	taxaEnvio          int32 = 20 // Taxa inicial: 20 msgs/seg
 	ultimoRateLimit    time.Time
 	intervaloEstabilidade = 10 * time.Second // Tempo sem erros para aumentar a taxa
 	
@@ -98,65 +98,15 @@ var (
 	
 	// Templates
 	templatesUtilidade = []string{
-		// "transacional_mes_mae",
-		"transacional_mes_maes_1",
-		"transacional_mes_maes_2",
-		"transacional_mes_maes_3",
-		"transacional_mes_maes_4",
-		"transacional_mes_maes_5",
-		"transacional_mes_maes_6",
-		"transacional_mes_maes_7",
-		"transacional_maes_mes_8",
-		"transacional_maes_mes_9",
-		"transacional_maes_mes_10",
-		"transacional_maes_mes_11",
-		"transacional_maes_mes_12",
-		"transacional_maes_mes_13",
-		"transacional_maes_mes_14",
-		"transacional_maes_mes_15",
-		"transacional_dia_maes_1",
-		"transacional_dia_maes_2",
-		"transacional_dia_maes_3",
-		"transacional_dia_maes_4",
-		"transacional_dia_maes_5",
-		"transacional_dia_maes_6",
-		"transacional_dia_maes_7",
-		"transacional_dia_maes_8",
-		"transacional_dia_maes_9",
-		"transacional_dia_maes_10",
+		"transacional_falta_estoque_step_13_05_2025"
 	}
 	
-	templatePadrao = "transacional_mes_maes_4"
+	templatePadrao = "transacional_falta_estoque_step_13_05_2025"
 	templateToUse  = templatePadrao  // Template que será efetivamente utilizado
 	
 	// Mapeamento de templates para suas linguagens
 	templateLanguages = map[string]string{
-		// "transacional_mes_mae":    "pt_BR",
-		"transacional_mes_maes_1":    "pt_BR",
-		"transacional_mes_maes_2":    "pt_BR",
-		"transacional_mes_maes_3":    "pt_BR",
-		"transacional_mes_maes_4":    "pt_BR",
-		"transacional_mes_maes_5":    "pt_BR",
-		"transacional_mes_maes_6":    "pt_BR",
-		"transacional_mes_maes_7":    "pt_BR",
-		"transacional_maes_mes_8":    "pt_BR",
-		"transacional_maes_mes_9":    "pt_BR",
-		"transacional_maes_mes_10":   "pt_BR",
-		"transacional_maes_mes_11":   "pt_BR",
-		"transacional_maes_mes_12":   "pt_BR",
-		"transacional_maes_mes_13":   "pt_BR",
-		"transacional_maes_mes_14":   "pt_BR",
-		"transacional_maes_mes_15":   "pt_BR",
-		"transacional_dia_maes_1":    "pt_BR",
-		"transacional_dia_maes_2":    "pt_BR",
-		"transacional_dia_maes_3":    "pt_BR",
-		"transacional_dia_maes_4":    "pt_BR",
-		"transacional_dia_maes_5":    "pt_BR",
-		"transacional_dia_maes_6":    "pt_BR",
-		"transacional_dia_maes_7":    "pt_BR",
-		"transacional_dia_maes_8":    "pt_BR",
-		"transacional_dia_maes_9":    "pt_BR",
-		"transacional_dia_maes_10":   "pt_BR",
+		"transacional_falta_estoque_step_13_05_2025": "pt_BR"
 	}
 	
 	templateCategoryCache   = make(map[string]string)
@@ -452,20 +402,11 @@ func fetchMessages(limit int) ([]Message, error) {
 			// Marcar como processado imediatamente
 			processedNumbers.Store(msg.Celular, true)
 		} else {
-			// Número já foi processado, marcar como enviado no banco
-			markAsSent(msg.NumeroPedido)
 			logger.Printf("Número %s já processado anteriormente, marcando pedido %s como enviado", 
 				msg.Celular, msg.NumeroPedido)
 		}
 	}
 	return messages, nil
-}
-
-func markAsSent(numeroPedido string) {
-	_, err := db.Exec(`UPDATE pedidos_envio_em_massa SET enviada = 1 WHERE pedidos_numeroPedido = ?`, numeroPedido)
-	if err != nil {
-		logger.Printf("Erro ao marcar como enviada pedido %s: %v", numeroPedido, err)
-	}
 }
 
 func updateStats() {
@@ -639,18 +580,11 @@ func sendMessage(msg Message, templateName string) bool {
 	// Incrementar o contador de uso do template
 	incrementTemplateUsage(templateName)
 	
-	// SEMPRE marcar como enviado independentemente do resultado
-	defer markAsSent(msg.NumeroPedido)
-	
 	// Determinar a linguagem correta para o template
 	language := "pt_BR" // Padrão
 	if lang, exists := templateLanguages[templateName]; exists {
 		language = lang
 	}
-
-	message_template_1 := `Ou deveria...  Quase lá! Só mais um passo e sua pele renovada está garantida!`
-	message_template_2 := `Compre 1 Colágeno Verisol + 1 Lip Balm por apenas R$99,90 e leve OUTRO POTE para potencializar seu tratamento!💖  *Oferta imbatível: 3 produtos de qualidade premium com **desconto exclusivo* para você cuidar da sua pele de dentro para fora.`
-	
 	// Preparar payload
 	payload := map[string]interface{}{
 		"messaging_product": "whatsapp",
@@ -665,8 +599,8 @@ func sendMessage(msg Message, templateName string) bool {
 				{
 					"type": "body",
 					"parameters": []map[string]interface{}{
-						{"type": "text", "text": message_template_1},
-						{"type": "text", "text": message_template_2},
+						{"type": "text", "text": msg.Nome},
+						{"type": "text", "text": msg.NumeroPedido},
 					},
 				},
 			},

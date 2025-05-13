@@ -1,0 +1,1195 @@
+2025/05/11 11:42:26 🚀 Iniciando processo de envio controlado
+2025/05/11 11:42:34 🚀 Iniciando com taxa de 20 mensagens por segundo
+2025/05/11 11:42:34 ⏱️ Processando lotes de 1000 mensagens a cada 5m0s
+2025/05/11 11:42:34 🔍 Verificando template: transacional_dia_maes_1
+2025/05/11 11:42:35 📋 Informações do template 'transacional_dia_maes_1':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 11:42:35 ✅ Template transacional_dia_maes_1 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 11:42:36 📤 Processando lote #1: 1000 mensagens
+2025/05/11 11:43:14 ✅ Lote #1: 1000/100000 mensagens enviadas
+2025/05/11 11:43:14 ⏳ Aguardando 4m22s para o próximo lote...
+2025/05/11 11:47:36 🔍 Verificando template: transacional_dia_maes_1
+2025/05/11 11:47:36 📋 Informações do template 'transacional_dia_maes_1':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 11:47:36 ✅ Template transacional_dia_maes_1 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 11:47:36 📤 Processando lote #2: 1000 mensagens
+2025/05/11 11:48:24 ✅ Lote #2: 2000/100000 mensagens enviadas
+2025/05/11 11:48:24 ⏳ Aguardando 4m12s para o próximo lote...
+2025/05/11 11:52:36 🔍 Verificando template: transacional_dia_maes_1
+2025/05/11 11:52:36 📋 Informações do template 'transacional_dia_maes_1':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 11:52:36 ✅ Template transacional_dia_maes_1 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 11:52:36 Número 21993081874 já processado anteriormente, marcando pedido RENOVABE-3424641 como enviado
+2025/05/11 11:52:36 Número 21993081874 já processado anteriormente, marcando pedido RENOVABE-3424921 como enviado
+2025/05/11 11:52:36 Número 11983930693 já processado anteriormente, marcando pedido RENOVABE-3425729 como enviado
+2025/05/11 11:52:36 📤 Processando lote #3: 997 mensagens
+2025/05/11 11:52:41 Erro 400: {"error":{"message":"The parameter to is required.","type":"OAuthException","code":100,"fbtrace_id":"Ac5uAMEyTXniN3Og4uzFewI"}}
+2025/05/11 11:53:28 ✅ Lote #3: 2997/100000 mensagens enviadas
+2025/05/11 11:53:28 ⏳ Aguardando 4m8s para o próximo lote...
+2025/05/11 11:57:36 🔍 Verificando template: transacional_dia_maes_1
+2025/05/11 11:57:36 📋 Informações do template 'transacional_dia_maes_1':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 11:57:36 ✅ Template transacional_dia_maes_1 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 11:57:37 📤 Processando lote #4: 1000 mensagens
+2025/05/11 11:58:11 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"A7ZAHqxCIhaYWQnkxpBE_wN"}}
+2025/05/11 11:58:18 ✅ Lote #4: 3997/100000 mensagens enviadas
+2025/05/11 11:58:18 ⏳ Aguardando 4m19s para o próximo lote...
+2025/05/11 12:02:37 🔍 Verificando template: transacional_dia_maes_1
+2025/05/11 12:02:37 📋 Informações do template 'transacional_dia_maes_1':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 12:02:37 📊 Template transacional_dia_maes_1 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 12:02:37 🔍 Verificando template: transacional_dia_maes_2
+2025/05/11 12:02:38 📋 Informações do template 'transacional_dia_maes_2':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 12:02:38 ✅ Template transacional_dia_maes_2 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 12:02:39 Número 41998378289 já processado anteriormente, marcando pedido RENOVABE-3431406 como enviado
+2025/05/11 12:02:39 📤 Processando lote #5: 999 mensagens
+2025/05/11 12:03:19 ✅ Lote #5: 4996/100000 mensagens enviadas
+2025/05/11 12:03:19 ⏳ Aguardando 4m19s para o próximo lote...
+2025/05/11 12:07:39 🔍 Verificando template: transacional_dia_maes_2
+2025/05/11 12:07:39 📋 Informações do template 'transacional_dia_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 12:07:39 ✅ Template transacional_dia_maes_2 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 12:07:39 Número  já processado anteriormente, marcando pedido RENOVABE-3432362 como enviado
+2025/05/11 12:07:39 Número 98991243746 já processado anteriormente, marcando pedido RENOVABE-3433248 como enviado
+2025/05/11 12:07:39 Número 81989839554 já processado anteriormente, marcando pedido RENOVABE-3433608 como enviado
+2025/05/11 12:07:39 📤 Processando lote #6: 997 mensagens
+2025/05/11 12:07:58 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"ABKZjLvzy2NN_O4Vn8K3yvB"}}
+2025/05/11 12:08:18 ✅ Lote #6: 5993/100000 mensagens enviadas
+2025/05/11 12:08:18 ⏳ Aguardando 4m20s para o próximo lote...
+2025/05/11 12:12:39 🔍 Verificando template: transacional_dia_maes_2
+2025/05/11 12:12:39 📋 Informações do template 'transacional_dia_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 12:12:39 ✅ Template transacional_dia_maes_2 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 12:12:39 📤 Processando lote #7: 1000 mensagens
+2025/05/11 12:13:19 ✅ Lote #7: 6993/100000 mensagens enviadas
+2025/05/11 12:13:19 ⏳ Aguardando 4m20s para o próximo lote...
+2025/05/11 12:17:39 🔍 Verificando template: transacional_dia_maes_2
+2025/05/11 12:17:39 📋 Informações do template 'transacional_dia_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 12:17:39 ✅ Template transacional_dia_maes_2 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 12:17:39 Número 25884699604 já processado anteriormente, marcando pedido RENOVABE-3438717 como enviado
+2025/05/11 12:17:39 📤 Processando lote #8: 999 mensagens
+2025/05/11 12:18:19 ✅ Lote #8: 7992/100000 mensagens enviadas
+2025/05/11 12:18:19 ⏳ Aguardando 4m20s para o próximo lote...
+2025/05/11 12:22:39 🔍 Verificando template: transacional_dia_maes_2
+2025/05/11 12:22:39 📋 Informações do template 'transacional_dia_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 12:22:39 📊 Template transacional_dia_maes_2 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 12:22:39 🔍 Verificando template: transacional_dia_maes_3
+2025/05/11 12:22:40 📋 Informações do template 'transacional_dia_maes_3':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 12:22:40 ✅ Template transacional_dia_maes_3 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 12:22:40 📤 Processando lote #9: 1000 mensagens
+2025/05/11 12:23:22 ✅ Lote #9: 8992/100000 mensagens enviadas
+2025/05/11 12:23:22 ⏳ Aguardando 4m18s para o próximo lote...
+2025/05/11 12:27:40 🔍 Verificando template: transacional_dia_maes_3
+2025/05/11 12:27:40 📋 Informações do template 'transacional_dia_maes_3':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 12:27:40 ✅ Template transacional_dia_maes_3 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 12:27:40 Número 11983524719 já processado anteriormente, marcando pedido RENOVABE-3443741 como enviado
+2025/05/11 12:27:40 Número 11968552883 já processado anteriormente, marcando pedido RENOVABE-3445684 como enviado
+2025/05/11 12:27:40 Número  já processado anteriormente, marcando pedido RENOVABE-3446216 como enviado
+2025/05/11 12:27:40 📤 Processando lote #10: 997 mensagens
+2025/05/11 12:27:50 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"AoiZyolu2VZn1c0HoWpnMks"}}
+2025/05/11 12:28:29 ✅ Lote #10: 9989/100000 mensagens enviadas
+2025/05/11 12:28:29 ⏳ Aguardando 4m11s para o próximo lote...
+2025/05/11 12:32:40 🔍 Verificando template: transacional_dia_maes_3
+2025/05/11 12:32:40 📋 Informações do template 'transacional_dia_maes_3':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 12:32:40 ✅ Template transacional_dia_maes_3 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 12:32:40 Número 11949360457 já processado anteriormente, marcando pedido RENOVABE-3446460 como enviado
+2025/05/11 12:32:40 Número 51992061865 já processado anteriormente, marcando pedido RENOVABE-3447841 como enviado
+2025/05/11 12:32:40 Número 19989082937 já processado anteriormente, marcando pedido RENOVABE-3448220 como enviado
+2025/05/11 12:32:40 📤 Processando lote #11: 997 mensagens
+2025/05/11 12:33:39 ✅ Lote #11: 10986/100000 mensagens enviadas
+2025/05/11 12:33:39 ⏳ Aguardando 4m2s para o próximo lote...
+2025/05/11 12:37:40 🔍 Verificando template: transacional_dia_maes_3
+2025/05/11 12:37:40 📋 Informações do template 'transacional_dia_maes_3':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 12:37:40 ✅ Template transacional_dia_maes_3 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 12:37:41 📤 Processando lote #12: 1000 mensagens
+2025/05/11 12:38:41 ✅ Lote #12: 11986/100000 mensagens enviadas
+2025/05/11 12:38:41 ⏳ Aguardando 4m0s para o próximo lote...
+2025/05/11 12:42:41 🔍 Verificando template: transacional_dia_maes_3
+2025/05/11 12:42:41 📋 Informações do template 'transacional_dia_maes_3':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 12:42:41 📊 Template transacional_dia_maes_3 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 12:42:41 🔍 Verificando template: transacional_dia_maes_4
+2025/05/11 12:42:41 📋 Informações do template 'transacional_dia_maes_4':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 12:42:41 ✅ Template transacional_dia_maes_4 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 12:42:41 Número 21981539944 já processado anteriormente, marcando pedido RENOVABE-3452601 como enviado
+2025/05/11 12:42:41 📤 Processando lote #13: 999 mensagens
+2025/05/11 12:42:45 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"AkfydGCRbSfZ6roABJyx6p-"}}
+2025/05/11 12:43:21 ✅ Lote #13: 12985/100000 mensagens enviadas
+2025/05/11 12:43:21 ⏳ Aguardando 4m20s para o próximo lote...
+2025/05/11 12:47:41 🔍 Verificando template: transacional_dia_maes_4
+2025/05/11 12:47:41 📋 Informações do template 'transacional_dia_maes_4':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 12:47:41 ✅ Template transacional_dia_maes_4 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 12:47:42 Número 61991121552 já processado anteriormente, marcando pedido RENOVABE-3455691 como enviado
+2025/05/11 12:47:42 Número 81997002344 já processado anteriormente, marcando pedido RENOVABE-3455736 como enviado
+2025/05/11 12:47:42 Número  já processado anteriormente, marcando pedido RENOVABE-3455745 como enviado
+2025/05/11 12:47:42 Número 51982080210 já processado anteriormente, marcando pedido RENOVABE-3456242 como enviado
+2025/05/11 12:47:42 Número 79999562715 já processado anteriormente, marcando pedido RENOVABE-3456484 como enviado
+2025/05/11 12:47:42 Número 47999054932 já processado anteriormente, marcando pedido RENOVABE-3456814 como enviado
+2025/05/11 12:47:42 📤 Processando lote #14: 994 mensagens
+2025/05/11 12:48:35 ✅ Lote #14: 13979/100000 mensagens enviadas
+2025/05/11 12:48:35 ⏳ Aguardando 4m6s para o próximo lote...
+2025/05/11 12:52:42 🔍 Verificando template: transacional_dia_maes_4
+2025/05/11 12:52:42 📋 Informações do template 'transacional_dia_maes_4':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 12:52:42 ✅ Template transacional_dia_maes_4 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 12:52:42 Número 94992112637 já processado anteriormente, marcando pedido RENOVABE-3458460 como enviado
+2025/05/11 12:52:42 📤 Processando lote #15: 999 mensagens
+2025/05/11 12:53:22 ✅ Lote #15: 14978/100000 mensagens enviadas
+2025/05/11 12:53:22 ⏳ Aguardando 4m20s para o próximo lote...
+2025/05/11 12:57:42 🔍 Verificando template: transacional_dia_maes_4
+2025/05/11 12:57:42 📋 Informações do template 'transacional_dia_maes_4':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 12:57:42 ✅ Template transacional_dia_maes_4 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 12:57:42 Número  já processado anteriormente, marcando pedido RENOVABE-3462099 como enviado
+2025/05/11 12:57:42 📤 Processando lote #16: 999 mensagens
+2025/05/11 12:57:56 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"AWxDaMKtOeSHX3NwahlsaL9"}}
+2025/05/11 12:58:23 ✅ Lote #16: 15977/100000 mensagens enviadas
+2025/05/11 12:58:23 ⏳ Aguardando 4m19s para o próximo lote...
+2025/05/11 13:02:42 🔍 Verificando template: transacional_dia_maes_4
+2025/05/11 13:02:42 📋 Informações do template 'transacional_dia_maes_4':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 13:02:42 📊 Template transacional_dia_maes_4 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 13:02:42 🔍 Verificando template: transacional_dia_maes_5
+2025/05/11 13:02:43 📋 Informações do template 'transacional_dia_maes_5':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 13:02:43 ✅ Template transacional_dia_maes_5 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 13:02:43 Número 55889814875 já processado anteriormente, marcando pedido RENOVABE-3464777 como enviado
+2025/05/11 13:02:43 📤 Processando lote #17: 999 mensagens
+2025/05/11 13:03:24 ✅ Lote #17: 16976/100000 mensagens enviadas
+2025/05/11 13:03:24 ⏳ Aguardando 4m19s para o próximo lote...
+2025/05/11 13:07:43 🔍 Verificando template: transacional_dia_maes_5
+2025/05/11 13:07:43 📋 Informações do template 'transacional_dia_maes_5':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 13:07:43 ✅ Template transacional_dia_maes_5 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 13:07:43 Número 51982080210 já processado anteriormente, marcando pedido RENOVABE-3466756 como enviado
+2025/05/11 13:07:43 Número 27997908220 já processado anteriormente, marcando pedido RENOVABE-3467381 como enviado
+2025/05/11 13:07:43 Número 11977437406 já processado anteriormente, marcando pedido RENOVABE-3468558 como enviado
+2025/05/11 13:07:43 📤 Processando lote #18: 997 mensagens
+2025/05/11 13:08:22 ✅ Lote #18: 17973/100000 mensagens enviadas
+2025/05/11 13:08:22 ⏳ Aguardando 4m21s para o próximo lote...
+2025/05/11 13:12:43 🔍 Verificando template: transacional_dia_maes_5
+2025/05/11 13:12:43 📋 Informações do template 'transacional_dia_maes_5':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 13:12:43 ✅ Template transacional_dia_maes_5 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 13:12:43 📤 Processando lote #19: 1000 mensagens
+2025/05/11 13:13:24 ✅ Lote #19: 18973/100000 mensagens enviadas
+2025/05/11 13:13:24 ⏳ Aguardando 4m19s para o próximo lote...
+2025/05/11 13:17:43 🔍 Verificando template: transacional_dia_maes_5
+2025/05/11 13:17:43 📋 Informações do template 'transacional_dia_maes_5':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 13:17:43 ✅ Template transacional_dia_maes_5 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 13:17:43 Número 66997231903 já processado anteriormente, marcando pedido RENOVABE-3473741 como enviado
+2025/05/11 13:17:43 Número 21990884832 já processado anteriormente, marcando pedido RENOVABE-3473967 como enviado
+2025/05/11 13:17:43 📤 Processando lote #20: 998 mensagens
+2025/05/11 13:18:26 ✅ Lote #20: 19971/100000 mensagens enviadas
+2025/05/11 13:18:26 ⏳ Aguardando 4m18s para o próximo lote...
+2025/05/11 13:18:26 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"AdyKC2UAiW2hzjdOUiKlPJr"}}
+2025/05/11 13:22:43 🔍 Verificando template: transacional_dia_maes_5
+2025/05/11 13:22:43 📋 Informações do template 'transacional_dia_maes_5':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 13:22:43 📊 Template transacional_dia_maes_5 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 13:22:43 🔍 Verificando template: transacional_dia_maes_6
+2025/05/11 13:22:44 📋 Informações do template 'transacional_dia_maes_6':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 13:22:44 ✅ Template transacional_dia_maes_6 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 13:22:44 📤 Processando lote #21: 1000 mensagens
+2025/05/11 13:23:25 ✅ Lote #21: 20971/100000 mensagens enviadas
+2025/05/11 13:23:25 ⏳ Aguardando 4m19s para o próximo lote...
+2025/05/11 13:27:44 🔍 Verificando template: transacional_dia_maes_6
+2025/05/11 13:27:44 📋 Informações do template 'transacional_dia_maes_6':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 13:27:44 ✅ Template transacional_dia_maes_6 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 13:27:44 Número  já processado anteriormente, marcando pedido RENOVABE-3478028 como enviado
+2025/05/11 13:27:44 Número  já processado anteriormente, marcando pedido RENOVABE-3478121 como enviado
+2025/05/11 13:27:44 📤 Processando lote #22: 998 mensagens
+2025/05/11 13:28:25 ✅ Lote #22: 21969/100000 mensagens enviadas
+2025/05/11 13:28:25 ⏳ Aguardando 4m19s para o próximo lote...
+2025/05/11 13:32:44 🔍 Verificando template: transacional_dia_maes_6
+2025/05/11 13:32:44 📋 Informações do template 'transacional_dia_maes_6':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 13:32:44 ✅ Template transacional_dia_maes_6 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 13:32:44 Número  já processado anteriormente, marcando pedido RENOVABE-3480302 como enviado
+2025/05/11 13:32:44 Número 4796172724 já processado anteriormente, marcando pedido RENOVABE-3481347 como enviado
+2025/05/11 13:32:44 Número 75988166287 já processado anteriormente, marcando pedido RENOVABE-3481986 como enviado
+2025/05/11 13:32:44 Número 4796172724 já processado anteriormente, marcando pedido RENOVABE-3482814 como enviado
+2025/05/11 13:32:44 📤 Processando lote #23: 996 mensagens
+2025/05/11 13:33:35 ✅ Lote #23: 22965/100000 mensagens enviadas
+2025/05/11 13:33:35 ⏳ Aguardando 4m9s para o próximo lote...
+2025/05/11 13:37:44 🔍 Verificando template: transacional_dia_maes_6
+2025/05/11 13:37:44 📋 Informações do template 'transacional_dia_maes_6':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 13:37:44 ✅ Template transacional_dia_maes_6 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 13:37:44 Número 67981197350 já processado anteriormente, marcando pedido RENOVABE-3483602 como enviado
+2025/05/11 13:37:44 📤 Processando lote #24: 999 mensagens
+2025/05/11 13:38:06 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"A8z2rNpX6yQF6UkRIsnu4UK"}}
+2025/05/11 13:38:10 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"ALU-Mp46QIfU1AIKALUIDvT"}}
+2025/05/11 13:38:10 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"AZCoYxDNTqr68TktXo0NySg"}}
+2025/05/11 13:38:24 ✅ Lote #24: 23964/100000 mensagens enviadas
+2025/05/11 13:38:24 ⏳ Aguardando 4m20s para o próximo lote...
+2025/05/11 13:42:44 🔍 Verificando template: transacional_dia_maes_6
+2025/05/11 13:42:44 📋 Informações do template 'transacional_dia_maes_6':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 13:42:44 📊 Template transacional_dia_maes_6 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 13:42:44 🔍 Verificando template: transacional_dia_maes_7
+2025/05/11 13:42:45 📋 Informações do template 'transacional_dia_maes_7':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 13:42:45 ✅ Template transacional_dia_maes_7 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 13:42:45 📤 Processando lote #25: 1000 mensagens
+2025/05/11 13:43:27 ✅ Lote #25: 24964/100000 mensagens enviadas
+2025/05/11 13:43:27 ⏳ Aguardando 4m19s para o próximo lote...
+2025/05/11 13:47:45 🔍 Verificando template: transacional_dia_maes_7
+2025/05/11 13:47:45 📋 Informações do template 'transacional_dia_maes_7':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 13:47:45 ✅ Template transacional_dia_maes_7 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 13:47:46 Número 81979012336 já processado anteriormente, marcando pedido RENOVABE-3490057 como enviado
+2025/05/11 13:47:46 Número 11952477563 já processado anteriormente, marcando pedido RENOVABE-3490066 como enviado
+2025/05/11 13:47:46 Número 38998079495 já processado anteriormente, marcando pedido RENOVABE-3490494 como enviado
+2025/05/11 13:47:46 Número 81992553226 já processado anteriormente, marcando pedido RENOVABE-3491006 como enviado
+2025/05/11 13:47:46 📤 Processando lote #26: 996 mensagens
+2025/05/11 13:47:59 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"ATP3ykVwT-ut4vD6wRE7dkW"}}
+2025/05/11 13:48:26 ✅ Lote #26: 25960/100000 mensagens enviadas
+2025/05/11 13:48:26 ⏳ Aguardando 4m20s para o próximo lote...
+2025/05/11 13:52:46 🔍 Verificando template: transacional_dia_maes_7
+2025/05/11 13:52:46 📋 Informações do template 'transacional_dia_maes_7':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 13:52:46 ✅ Template transacional_dia_maes_7 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 13:52:46 📤 Processando lote #27: 1000 mensagens
+2025/05/11 13:53:26 ✅ Lote #27: 26960/100000 mensagens enviadas
+2025/05/11 13:53:26 ⏳ Aguardando 4m20s para o próximo lote...
+2025/05/11 13:57:46 🔍 Verificando template: transacional_dia_maes_7
+2025/05/11 13:57:46 📋 Informações do template 'transacional_dia_maes_7':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 13:57:46 ✅ Template transacional_dia_maes_7 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 13:57:46 Número  já processado anteriormente, marcando pedido RENOVABE-3495731 como enviado
+2025/05/11 13:57:46 Número 82999399593 já processado anteriormente, marcando pedido RENOVABE-3496932 como enviado
+2025/05/11 13:57:46 Número  já processado anteriormente, marcando pedido RENOVABE-3496981 como enviado
+2025/05/11 13:57:46 Número 16994544870 já processado anteriormente, marcando pedido RENOVABE-3497274 como enviado
+2025/05/11 13:57:46 📤 Processando lote #28: 996 mensagens
+2025/05/11 13:58:28 ✅ Lote #28: 27956/100000 mensagens enviadas
+2025/05/11 13:58:28 ⏳ Aguardando 4m18s para o próximo lote...
+2025/05/11 14:02:46 🔍 Verificando template: transacional_dia_maes_7
+2025/05/11 14:02:46 📋 Informações do template 'transacional_dia_maes_7':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 14:02:46 📊 Template transacional_dia_maes_7 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 14:02:46 🔍 Verificando template: transacional_dia_maes_8
+2025/05/11 14:02:47 📋 Informações do template 'transacional_dia_maes_8':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 14:02:47 ✅ Template transacional_dia_maes_8 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 14:02:47 Número 34984023609 já processado anteriormente, marcando pedido RENOVABE-3499010 como enviado
+2025/05/11 14:02:47 Número  já processado anteriormente, marcando pedido RENOVABE-3499976 como enviado
+2025/05/11 14:02:47 📤 Processando lote #29: 998 mensagens
+2025/05/11 14:03:34 ✅ Lote #29: 28954/100000 mensagens enviadas
+2025/05/11 14:03:34 ⏳ Aguardando 4m13s para o próximo lote...
+2025/05/11 14:07:47 🔍 Verificando template: transacional_dia_maes_8
+2025/05/11 14:07:47 📋 Informações do template 'transacional_dia_maes_8':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 14:07:47 ✅ Template transacional_dia_maes_8 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 14:07:47 Número 67981011100 já processado anteriormente, marcando pedido RENOVABE-3500584 como enviado
+2025/05/11 14:07:47 Número 11968278909 já processado anteriormente, marcando pedido RENOVABE-3500994 como enviado
+2025/05/11 14:07:47 Número 11988184888 já processado anteriormente, marcando pedido RENOVABE-3501292 como enviado
+2025/05/11 14:07:47 📤 Processando lote #30: 997 mensagens
+2025/05/11 14:08:26 ✅ Lote #30: 29951/100000 mensagens enviadas
+2025/05/11 14:08:26 ⏳ Aguardando 4m21s para o próximo lote...
+2025/05/11 14:12:47 🔍 Verificando template: transacional_dia_maes_8
+2025/05/11 14:12:47 📋 Informações do template 'transacional_dia_maes_8':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 14:12:47 ✅ Template transacional_dia_maes_8 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 14:12:47 Número  já processado anteriormente, marcando pedido RENOVABE-3504703 como enviado
+2025/05/11 14:12:47 📤 Processando lote #31: 999 mensagens
+2025/05/11 14:13:15 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"AUbWntG7SzDQ6p2EJcCIuoj"}}
+2025/05/11 14:13:25 ✅ Lote #31: 30950/100000 mensagens enviadas
+2025/05/11 14:13:25 ⏳ Aguardando 4m22s para o próximo lote...
+2025/05/11 14:17:47 🔍 Verificando template: transacional_dia_maes_8
+2025/05/11 14:17:47 📋 Informações do template 'transacional_dia_maes_8':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 14:17:47 ✅ Template transacional_dia_maes_8 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 14:17:47 Número 11987325991 já processado anteriormente, marcando pedido RENOVABE-3508752 como enviado
+2025/05/11 14:17:47 📤 Processando lote #32: 999 mensagens
+2025/05/11 14:18:24 ✅ Lote #32: 31949/100000 mensagens enviadas
+2025/05/11 14:18:24 ⏳ Aguardando 4m23s para o próximo lote...
+2025/05/11 14:22:47 🔍 Verificando template: transacional_dia_maes_8
+2025/05/11 14:22:47 📋 Informações do template 'transacional_dia_maes_8':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 14:22:47 📊 Template transacional_dia_maes_8 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 14:22:47 🔍 Verificando template: transacional_dia_maes_9
+2025/05/11 14:22:48 📋 Informações do template 'transacional_dia_maes_9':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 14:22:48 ✅ Template transacional_dia_maes_9 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 14:22:48 Número 41999852056 já processado anteriormente, marcando pedido RENOVABE-3509233 como enviado
+2025/05/11 14:22:48 Número 24998763272 já processado anteriormente, marcando pedido RENOVABE-3510316 como enviado
+2025/05/11 14:22:48 Número 81998836856 já processado anteriormente, marcando pedido RENOVABE-3510472 como enviado
+2025/05/11 14:22:48 📤 Processando lote #33: 997 mensagens
+2025/05/11 14:23:15 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"AL5oRgYWFg_HJT1hT_JI5oD"}}
+2025/05/11 14:23:26 ✅ Lote #33: 32946/100000 mensagens enviadas
+2025/05/11 14:23:26 ⏳ Aguardando 4m22s para o próximo lote...
+2025/05/11 14:27:48 🔍 Verificando template: transacional_dia_maes_9
+2025/05/11 14:27:48 📋 Informações do template 'transacional_dia_maes_9':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 14:27:48 ✅ Template transacional_dia_maes_9 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 14:27:48 Número 51999020695 já processado anteriormente, marcando pedido RENOVABE-3511726 como enviado
+2025/05/11 14:27:48 📤 Processando lote #34: 999 mensagens
+2025/05/11 14:28:47 ✅ Lote #34: 33945/100000 mensagens enviadas
+2025/05/11 14:28:47 ⏳ Aguardando 4m1s para o próximo lote...
+2025/05/11 14:32:48 🔍 Verificando template: transacional_dia_maes_9
+2025/05/11 14:32:48 📋 Informações do template 'transacional_dia_maes_9':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 14:32:48 ✅ Template transacional_dia_maes_9 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 14:32:48 Número  já processado anteriormente, marcando pedido RENOVABE-3514947 como enviado
+2025/05/11 14:32:48 📤 Processando lote #35: 999 mensagens
+2025/05/11 14:33:34 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"A3lTt11aKwwDY62eR0eeZRF"}}
+2025/05/11 14:33:39 ✅ Lote #35: 34944/100000 mensagens enviadas
+2025/05/11 14:33:39 ⏳ Aguardando 4m9s para o próximo lote...
+2025/05/11 14:37:48 🔍 Verificando template: transacional_dia_maes_9
+2025/05/11 14:37:48 📋 Informações do template 'transacional_dia_maes_9':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 14:37:48 ✅ Template transacional_dia_maes_9 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 14:37:48 Número 24981829218 já processado anteriormente, marcando pedido RENOVABE-3517433 como enviado
+2025/05/11 14:37:48 Número 00000000000 já processado anteriormente, marcando pedido RENOVABE-3517466 como enviado
+2025/05/11 14:37:48 Número 11930972181 já processado anteriormente, marcando pedido RENOVABE-3518775 como enviado
+2025/05/11 14:37:48 Número  já processado anteriormente, marcando pedido RENOVABE-3519522 como enviado
+2025/05/11 14:37:48 📤 Processando lote #36: 996 mensagens
+2025/05/11 14:38:12 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"Af6lk04QWMnedMyM18QlNA5"}}
+2025/05/11 14:38:26 ✅ Lote #36: 35940/100000 mensagens enviadas
+2025/05/11 14:38:26 ⏳ Aguardando 4m22s para o próximo lote...
+2025/05/11 14:42:49 🔍 Verificando template: transacional_dia_maes_9
+2025/05/11 14:42:49 📋 Informações do template 'transacional_dia_maes_9':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 14:42:49 📊 Template transacional_dia_maes_9 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 14:42:49 🔍 Verificando template: transacional_dia_maes_10
+2025/05/11 14:42:49 📋 Informações do template 'transacional_dia_maes_10':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 14:42:49 ✅ Template transacional_dia_maes_10 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 14:42:49 Número  já processado anteriormente, marcando pedido RENOVABE-3521185 como enviado
+2025/05/11 14:42:49 Número 31995613801 já processado anteriormente, marcando pedido RENOVABE-3521575 como enviado
+2025/05/11 14:42:49 Número 98981284443 já processado anteriormente, marcando pedido RENOVABE-3522039 como enviado
+2025/05/11 14:42:49 📤 Processando lote #37: 997 mensagens
+2025/05/11 14:43:40 ✅ Lote #37: 36937/100000 mensagens enviadas
+2025/05/11 14:43:40 ⏳ Aguardando 4m9s para o próximo lote...
+2025/05/11 14:47:49 🔍 Verificando template: transacional_dia_maes_10
+2025/05/11 14:47:49 📋 Informações do template 'transacional_dia_maes_10':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 14:47:49 ✅ Template transacional_dia_maes_10 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 14:47:50 Número  já processado anteriormente, marcando pedido RENOVABE-3525840 como enviado
+2025/05/11 14:47:50 📤 Processando lote #38: 999 mensagens
+2025/05/11 14:48:36 ✅ Lote #38: 37936/100000 mensagens enviadas
+2025/05/11 14:48:36 ⏳ Aguardando 4m14s para o próximo lote...
+2025/05/11 14:48:37 Erro 500: {"error":{"message":"(#131000) Something went wrong","type":"OAuthException","code":131000,"error_data":{"messaging_product":"whatsapp","details":"Something went wrong"},"fbtrace_id":"Awb8E1iStYUkyBBHYIhac9v"}}
+2025/05/11 14:52:50 🔍 Verificando template: transacional_dia_maes_10
+2025/05/11 14:52:50 📋 Informações do template 'transacional_dia_maes_10':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 14:52:50 ✅ Template transacional_dia_maes_10 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 14:52:50 Número  já processado anteriormente, marcando pedido RENOVABE-3526268 como enviado
+2025/05/11 14:52:50 Número  já processado anteriormente, marcando pedido RENOVABE-3526360 como enviado
+2025/05/11 14:52:50 Número  já processado anteriormente, marcando pedido RENOVABE-3528008 como enviado
+2025/05/11 14:52:50 📤 Processando lote #39: 997 mensagens
+2025/05/11 14:53:33 ✅ Lote #39: 38933/100000 mensagens enviadas
+2025/05/11 14:53:33 ⏳ Aguardando 4m17s para o próximo lote...
+2025/05/11 14:53:37 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"AQO4a8_8--zJw7opETz7Hmt"}}
+2025/05/11 14:57:50 🔍 Verificando template: transacional_dia_maes_10
+2025/05/11 14:57:50 📋 Informações do template 'transacional_dia_maes_10':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 14:57:50 ✅ Template transacional_dia_maes_10 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 14:57:50 Número 98984701991 já processado anteriormente, marcando pedido RENOVABE-3529961 como enviado
+2025/05/11 14:57:50 Número 75983634610 já processado anteriormente, marcando pedido RENOVABE-3531485 como enviado
+2025/05/11 14:57:50 Número 00000000000 já processado anteriormente, marcando pedido RENOVABE-3531932 como enviado
+2025/05/11 14:57:50 Número 55999370562 já processado anteriormente, marcando pedido RENOVABE-3532514 como enviado
+2025/05/11 14:57:50 📤 Processando lote #40: 996 mensagens
+2025/05/11 14:58:47 ✅ Lote #40: 39929/100000 mensagens enviadas
+2025/05/11 14:58:47 ⏳ Aguardando 4m3s para o próximo lote...
+2025/05/11 15:02:50 🔍 Verificando template: transacional_dia_maes_10
+2025/05/11 15:02:50 📋 Informações do template 'transacional_dia_maes_10':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 15:02:50 📊 Template transacional_dia_maes_10 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 15:02:50 🔍 Verificando template: transacional_mes_maes_1
+2025/05/11 15:02:51 📋 Informações do template 'transacional_mes_maes_1':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 15:02:51 ✅ Template transacional_mes_maes_1 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 15:02:51 Número 61992600518 já processado anteriormente, marcando pedido RENOVABE-3534054 como enviado
+2025/05/11 15:02:51 Número 21993995021 já processado anteriormente, marcando pedido RENOVABE-3534622 como enviado
+2025/05/11 15:02:51 Número 21993995021 já processado anteriormente, marcando pedido RENOVABE-3534987 como enviado
+2025/05/11 15:02:51 📤 Processando lote #41: 997 mensagens
+2025/05/11 15:03:29 ✅ Lote #41: 40926/100000 mensagens enviadas
+2025/05/11 15:03:29 ⏳ Aguardando 4m22s para o próximo lote...
+2025/05/11 15:07:51 🔍 Verificando template: transacional_mes_maes_1
+2025/05/11 15:07:51 📋 Informações do template 'transacional_mes_maes_1':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 15:07:51 ✅ Template transacional_mes_maes_1 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 15:07:51 Número  já processado anteriormente, marcando pedido RENOVABE-3537695 como enviado
+2025/05/11 15:07:51 📤 Processando lote #42: 999 mensagens
+2025/05/11 15:08:13 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"ASxwrtSIBZkYE1bj4boZ64J"}}
+2025/05/11 15:08:25 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"A2yejVGiJJt3chYS4PJx2A0"}}
+2025/05/11 15:08:37 ✅ Lote #42: 41925/100000 mensagens enviadas
+2025/05/11 15:08:37 ⏳ Aguardando 4m14s para o próximo lote...
+2025/05/11 15:12:51 🔍 Verificando template: transacional_mes_maes_1
+2025/05/11 15:12:51 📋 Informações do template 'transacional_mes_maes_1':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 15:12:51 ✅ Template transacional_mes_maes_1 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 15:12:51 Número 66992211510 já processado anteriormente, marcando pedido RENOVABE-3539014 como enviado
+2025/05/11 15:12:51 📤 Processando lote #43: 999 mensagens
+2025/05/11 15:13:37 ✅ Lote #43: 42924/100000 mensagens enviadas
+2025/05/11 15:13:37 ⏳ Aguardando 4m14s para o próximo lote...
+2025/05/11 15:17:51 🔍 Verificando template: transacional_mes_maes_1
+2025/05/11 15:17:51 📋 Informações do template 'transacional_mes_maes_1':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 15:17:51 ✅ Template transacional_mes_maes_1 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 15:17:51 📤 Processando lote #44: 1000 mensagens
+2025/05/11 15:18:28 ✅ Lote #44: 43924/100000 mensagens enviadas
+2025/05/11 15:18:28 ⏳ Aguardando 4m23s para o próximo lote...
+2025/05/11 15:22:51 🔍 Verificando template: transacional_mes_maes_1
+2025/05/11 15:22:51 📋 Informações do template 'transacional_mes_maes_1':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 15:22:51 📊 Template transacional_mes_maes_1 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 15:22:51 🔍 Verificando template: transacional_mes_maes_2
+2025/05/11 15:22:53 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 15:22:53 ✅ Template transacional_mes_maes_2 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 15:22:53 Número  já processado anteriormente, marcando pedido RENOVABE-3545978 como enviado
+2025/05/11 15:22:53 Número 81997922498 já processado anteriormente, marcando pedido RENOVABE-3546066 como enviado
+2025/05/11 15:22:53 Número 98985278534 já processado anteriormente, marcando pedido RENOVABE-3546082 como enviado
+2025/05/11 15:22:53 Número 81997922498 já processado anteriormente, marcando pedido RENOVABE-3546131 como enviado
+2025/05/11 15:22:53 Número 11991051869 já processado anteriormente, marcando pedido RENOVABE-3546431 como enviado
+2025/05/11 15:22:53 Número 15996153111 já processado anteriormente, marcando pedido RENOVABE-3547840 como enviado
+2025/05/11 15:22:53 📤 Processando lote #45: 994 mensagens
+2025/05/11 15:23:36 ✅ Lote #45: 44918/100000 mensagens enviadas
+2025/05/11 15:23:36 ⏳ Aguardando 4m17s para o próximo lote...
+2025/05/11 15:27:53 🔍 Verificando template: transacional_mes_maes_2
+2025/05/11 15:27:53 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 15:27:53 ✅ Template transacional_mes_maes_2 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 15:27:53 Número 00000000000 já processado anteriormente, marcando pedido RENOVABE-3548662 como enviado
+2025/05/11 15:27:53 Número 11980964427 já processado anteriormente, marcando pedido RENOVABE-3549714 como enviado
+2025/05/11 15:27:53 Número 35988432439 já processado anteriormente, marcando pedido RENOVABE-3550899 como enviado
+2025/05/11 15:27:53 📤 Processando lote #46: 997 mensagens
+2025/05/11 15:28:43 ✅ Lote #46: 45915/100000 mensagens enviadas
+2025/05/11 15:28:43 ⏳ Aguardando 4m10s para o próximo lote...
+2025/05/11 15:32:53 🔍 Verificando template: transacional_mes_maes_2
+2025/05/11 15:32:53 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 15:32:53 ✅ Template transacional_mes_maes_2 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 15:32:53 Número 73988468876 já processado anteriormente, marcando pedido RENOVABE-3554268 como enviado
+2025/05/11 15:32:53 Número 88999168139 já processado anteriormente, marcando pedido RENOVABE-3554496 como enviado
+2025/05/11 15:32:53 📤 Processando lote #47: 998 mensagens
+2025/05/11 15:33:31 ✅ Lote #47: 46913/100000 mensagens enviadas
+2025/05/11 15:33:31 ⏳ Aguardando 4m22s para o próximo lote...
+2025/05/11 15:37:53 🔍 Verificando template: transacional_mes_maes_2
+2025/05/11 15:37:53 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 15:37:53 ✅ Template transacional_mes_maes_2 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 15:37:53 Número 84986044051 já processado anteriormente, marcando pedido RENOVABE-3554610 como enviado
+2025/05/11 15:37:53 Número 21969337429 já processado anteriormente, marcando pedido RENOVABE-3555408 como enviado
+2025/05/11 15:37:53 Número 11959220636 já processado anteriormente, marcando pedido RENOVABE-3556475 como enviado
+2025/05/11 15:37:53 📤 Processando lote #48: 997 mensagens
+2025/05/11 15:38:31 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"ApkGjxz2G7Z45NZplagKHNK"}}
+2025/05/11 15:38:32 ✅ Lote #48: 47910/100000 mensagens enviadas
+2025/05/11 15:38:32 ⏳ Aguardando 4m21s para o próximo lote...
+2025/05/11 15:42:53 🔍 Verificando template: transacional_mes_maes_2
+2025/05/11 15:42:53 📋 Informações do template 'transacional_mes_maes_2':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 15:42:53 📊 Template transacional_mes_maes_2 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 15:42:53 🔍 Verificando template: transacional_mes_maes_3
+2025/05/11 15:42:54 📋 Informações do template 'transacional_mes_maes_3':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 15:42:54 ✅ Template transacional_mes_maes_3 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 15:42:54 Número 11947651493 já processado anteriormente, marcando pedido RENOVABE-3559847 como enviado
+2025/05/11 15:42:54 📤 Processando lote #49: 999 mensagens
+2025/05/11 15:43:32 ✅ Lote #49: 48909/100000 mensagens enviadas
+2025/05/11 15:43:32 ⏳ Aguardando 4m22s para o próximo lote...
+2025/05/11 15:47:54 🔍 Verificando template: transacional_mes_maes_3
+2025/05/11 15:47:54 📋 Informações do template 'transacional_mes_maes_3':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 15:47:54 ✅ Template transacional_mes_maes_3 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 15:47:54 Número 19992141179 já processado anteriormente, marcando pedido RENOVABE-3561064 como enviado
+2025/05/11 15:47:54 Número  já processado anteriormente, marcando pedido RENOVABE-3561900 como enviado
+2025/05/11 15:47:54 Número 61996454132 já processado anteriormente, marcando pedido RENOVABE-3561933 como enviado
+2025/05/11 15:47:54 Número 19983110895 já processado anteriormente, marcando pedido RENOVABE-3562774 como enviado
+2025/05/11 15:47:54 📤 Processando lote #50: 996 mensagens
+2025/05/11 15:48:31 ✅ Lote #50: 49905/100000 mensagens enviadas
+2025/05/11 15:48:31 ⏳ Aguardando 4m23s para o próximo lote...
+2025/05/11 15:52:54 🔍 Verificando template: transacional_mes_maes_3
+2025/05/11 15:52:54 📋 Informações do template 'transacional_mes_maes_3':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 15:52:54 ✅ Template transacional_mes_maes_3 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 15:52:54 Número  já processado anteriormente, marcando pedido RENOVABE-3564012 como enviado
+2025/05/11 15:52:54 Número  já processado anteriormente, marcando pedido RENOVABE-3564145 como enviado
+2025/05/11 15:52:54 Número 33999401110 já processado anteriormente, marcando pedido RENOVABE-3565297 como enviado
+2025/05/11 15:52:54 Número 84998392654 já processado anteriormente, marcando pedido RENOVABE-3566165 como enviado
+2025/05/11 15:52:54 Número 21968573781 já processado anteriormente, marcando pedido RENOVABE-3566358 como enviado
+2025/05/11 15:52:54 📤 Processando lote #51: 995 mensagens
+2025/05/11 15:53:31 ✅ Lote #51: 50900/100000 mensagens enviadas
+2025/05/11 15:53:31 ⏳ Aguardando 4m24s para o próximo lote...
+2025/05/11 15:57:54 🔍 Verificando template: transacional_mes_maes_3
+2025/05/11 15:57:54 📋 Informações do template 'transacional_mes_maes_3':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 15:57:54 ✅ Template transacional_mes_maes_3 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 15:57:54 Número 91984300700 já processado anteriormente, marcando pedido RENOVABE-3567108 como enviado
+2025/05/11 15:57:54 Número 17996470547 já processado anteriormente, marcando pedido RENOVABE-3567749 como enviado
+2025/05/11 15:57:54 Número 77981156580 já processado anteriormente, marcando pedido RENOVABE-3568720 como enviado
+2025/05/11 15:57:54 📤 Processando lote #52: 997 mensagens
+2025/05/11 15:58:30 ✅ Lote #52: 51897/100000 mensagens enviadas
+2025/05/11 15:58:30 ⏳ Aguardando 4m24s para o próximo lote...
+2025/05/11 16:02:54 🔍 Verificando template: transacional_mes_maes_3
+2025/05/11 16:02:54 📋 Informações do template 'transacional_mes_maes_3':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 16:02:54 📊 Template transacional_mes_maes_3 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 16:02:54 🔍 Verificando template: transacional_mes_maes_4
+2025/05/11 16:02:55 📋 Informações do template 'transacional_mes_maes_4':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 16:02:55 ✅ Template transacional_mes_maes_4 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 16:02:55 Número 48999306208 já processado anteriormente, marcando pedido RENOVABE-3569696 como enviado
+2025/05/11 16:02:55 Número 48996460416 já processado anteriormente, marcando pedido RENOVABE-3571516 como enviado
+2025/05/11 16:02:55 📤 Processando lote #53: 998 mensagens
+2025/05/11 16:02:58 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"AR4-rOtx6ajcjc2eO8JGgJB"}}
+2025/05/11 16:03:46 ✅ Lote #53: 52895/100000 mensagens enviadas
+2025/05/11 16:03:46 ⏳ Aguardando 4m10s para o próximo lote...
+2025/05/11 16:07:56 🔍 Verificando template: transacional_mes_maes_4
+2025/05/11 16:07:56 📋 Informações do template 'transacional_mes_maes_4':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 16:07:56 ✅ Template transacional_mes_maes_4 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 16:07:56 Número  já processado anteriormente, marcando pedido RENOVABE-3575070 como enviado
+2025/05/11 16:07:56 Número 11940384351 já processado anteriormente, marcando pedido RENOVABE-3575085 como enviado
+2025/05/11 16:07:56 📤 Processando lote #54: 998 mensagens
+2025/05/11 16:08:27 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"Aqiwo-_y6Op8hHr7Bc7d8py"}}
+2025/05/11 16:08:33 ✅ Lote #54: 53893/100000 mensagens enviadas
+2025/05/11 16:08:33 ⏳ Aguardando 4m23s para o próximo lote...
+2025/05/11 16:12:56 🔍 Verificando template: transacional_mes_maes_4
+2025/05/11 16:12:56 📋 Informações do template 'transacional_mes_maes_4':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 16:12:56 ✅ Template transacional_mes_maes_4 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 16:12:56 Número 68999571979 já processado anteriormente, marcando pedido RENOVABE-3576517 como enviado
+2025/05/11 16:12:56 Número 47988991529 já processado anteriormente, marcando pedido RENOVABE-3576617 como enviado
+2025/05/11 16:12:56 📤 Processando lote #55: 998 mensagens
+2025/05/11 16:13:32 ✅ Lote #55: 54891/100000 mensagens enviadas
+2025/05/11 16:13:32 ⏳ Aguardando 4m24s para o próximo lote...
+2025/05/11 16:17:56 🔍 Verificando template: transacional_mes_maes_4
+2025/05/11 16:17:56 📋 Informações do template 'transacional_mes_maes_4':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 16:17:56 ✅ Template transacional_mes_maes_4 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 16:17:56 Número 17981248639 já processado anteriormente, marcando pedido RENOVABE-3580064 como enviado
+2025/05/11 16:17:56 Número 88988048841 já processado anteriormente, marcando pedido RENOVABE-3580774 como enviado
+2025/05/11 16:17:56 Número  já processado anteriormente, marcando pedido RENOVABE-3581236 como enviado
+2025/05/11 16:17:56 📤 Processando lote #56: 997 mensagens
+2025/05/11 16:18:27 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"APh1vRxwWSo-MXJeYi-RhW7"}}
+2025/05/11 16:18:32 ✅ Lote #56: 55888/100000 mensagens enviadas
+2025/05/11 16:18:32 ⏳ Aguardando 4m24s para o próximo lote...
+2025/05/11 16:22:56 🔍 Verificando template: transacional_mes_maes_4
+2025/05/11 16:22:56 📋 Informações do template 'transacional_mes_maes_4':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 16:22:56 📊 Template transacional_mes_maes_4 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 16:22:56 🔍 Verificando template: transacional_mes_maes_5
+2025/05/11 16:22:57 📋 Informações do template 'transacional_mes_maes_5':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 16:22:57 ✅ Template transacional_mes_maes_5 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 16:22:57 Número 41988329712 já processado anteriormente, marcando pedido RENOVABE-3583534 como enviado
+2025/05/11 16:22:57 📤 Processando lote #57: 999 mensagens
+2025/05/11 16:23:35 ✅ Lote #57: 56887/100000 mensagens enviadas
+2025/05/11 16:23:35 ⏳ Aguardando 4m22s para o próximo lote...
+2025/05/11 16:27:57 🔍 Verificando template: transacional_mes_maes_5
+2025/05/11 16:27:57 📋 Informações do template 'transacional_mes_maes_5':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 16:27:57 ✅ Template transacional_mes_maes_5 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 16:27:57 📤 Processando lote #58: 1000 mensagens
+2025/05/11 16:28:35 ✅ Lote #58: 57887/100000 mensagens enviadas
+2025/05/11 16:28:35 ⏳ Aguardando 4m22s para o próximo lote...
+2025/05/11 16:32:57 🔍 Verificando template: transacional_mes_maes_5
+2025/05/11 16:32:57 📋 Informações do template 'transacional_mes_maes_5':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 16:32:57 ✅ Template transacional_mes_maes_5 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 16:32:58 Número 61992328803 já processado anteriormente, marcando pedido RENOVABE-3589677 como enviado
+2025/05/11 16:32:58 Número  já processado anteriormente, marcando pedido RENOVABE-3590108 como enviado
+2025/05/11 16:32:58 Número 44998268606 já processado anteriormente, marcando pedido RENOVABE-3591590 como enviado
+2025/05/11 16:32:58 📤 Processando lote #59: 997 mensagens
+2025/05/11 16:33:48 ✅ Lote #59: 58884/100000 mensagens enviadas
+2025/05/11 16:33:48 ⏳ Aguardando 4m9s para o próximo lote...
+2025/05/11 16:37:58 🔍 Verificando template: transacional_mes_maes_5
+2025/05/11 16:37:58 📋 Informações do template 'transacional_mes_maes_5':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 16:37:58 ✅ Template transacional_mes_maes_5 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 16:37:58 📤 Processando lote #60: 1000 mensagens
+2025/05/11 16:38:50 ✅ Lote #60: 59884/100000 mensagens enviadas
+2025/05/11 16:38:50 ⏳ Aguardando 4m8s para o próximo lote...
+2025/05/11 16:42:58 🔍 Verificando template: transacional_mes_maes_5
+2025/05/11 16:42:58 📋 Informações do template 'transacional_mes_maes_5':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 16:42:58 📊 Template transacional_mes_maes_5 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 16:42:58 🔍 Verificando template: transacional_mes_maes_6
+2025/05/11 16:42:58 📋 Informações do template 'transacional_mes_maes_6':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 16:42:58 ✅ Template transacional_mes_maes_6 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 16:42:58 📤 Processando lote #61: 1000 mensagens
+2025/05/11 16:43:34 ✅ Lote #61: 60884/100000 mensagens enviadas
+2025/05/11 16:43:34 ⏳ Aguardando 4m25s para o próximo lote...
+2025/05/11 16:43:36 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"A1FDjtgg-cRnHBA_46YTbbW"}}
+2025/05/11 16:47:58 🔍 Verificando template: transacional_mes_maes_6
+2025/05/11 16:47:58 📋 Informações do template 'transacional_mes_maes_6':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 16:47:58 ✅ Template transacional_mes_maes_6 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 16:47:59 Número 21970024125 já processado anteriormente, marcando pedido RENOVABE-3600530 como enviado
+2025/05/11 16:47:59 Número 19999738220 já processado anteriormente, marcando pedido RENOVABE-3600618 como enviado
+2025/05/11 16:47:59 📤 Processando lote #62: 998 mensagens
+2025/05/11 16:48:55 ✅ Lote #62: 61882/100000 mensagens enviadas
+2025/05/11 16:48:55 ⏳ Aguardando 4m4s para o próximo lote...
+2025/05/11 16:52:59 🔍 Verificando template: transacional_mes_maes_6
+2025/05/11 16:52:59 📋 Informações do template 'transacional_mes_maes_6':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 16:52:59 ✅ Template transacional_mes_maes_6 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 16:52:59 Número 11916202526 já processado anteriormente, marcando pedido RENOVABE-3602202 como enviado
+2025/05/11 16:52:59 Número 22992154131 já processado anteriormente, marcando pedido RENOVABE-3602559 como enviado
+2025/05/11 16:52:59 📤 Processando lote #63: 998 mensagens
+2025/05/11 16:53:35 ✅ Lote #63: 62880/100000 mensagens enviadas
+2025/05/11 16:53:35 ⏳ Aguardando 4m24s para o próximo lote...
+2025/05/11 16:57:59 🔍 Verificando template: transacional_mes_maes_6
+2025/05/11 16:57:59 📋 Informações do template 'transacional_mes_maes_6':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 16:57:59 ✅ Template transacional_mes_maes_6 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 16:57:59 📤 Processando lote #64: 1000 mensagens
+2025/05/11 16:58:36 ✅ Lote #64: 63880/100000 mensagens enviadas
+2025/05/11 16:58:36 ⏳ Aguardando 4m23s para o próximo lote...
+2025/05/11 16:58:39 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"ARBM6Yu8bguweIG80-TP8ym"}}
+2025/05/11 17:02:59 🔍 Verificando template: transacional_mes_maes_6
+2025/05/11 17:02:59 📋 Informações do template 'transacional_mes_maes_6':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 17:02:59 📊 Template transacional_mes_maes_6 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 17:02:59 🔍 Verificando template: transacional_mes_maes_7
+2025/05/11 17:03:00 📋 Informações do template 'transacional_mes_maes_7':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 17:03:00 ✅ Template transacional_mes_maes_7 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 17:03:00 Número 11986063186 já processado anteriormente, marcando pedido RENOVABE-3609417 como enviado
+2025/05/11 17:03:00 Número 11964465049 já processado anteriormente, marcando pedido RENOVABE-3609969 como enviado
+2025/05/11 17:03:00 📤 Processando lote #65: 998 mensagens
+2025/05/11 17:03:49 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"AnJNTWjOL8IYZW50OGqRNZs"}}
+2025/05/11 17:04:02 ✅ Lote #65: 64878/100000 mensagens enviadas
+2025/05/11 17:04:02 ⏳ Aguardando 3m58s para o próximo lote...
+2025/05/11 17:08:00 🔍 Verificando template: transacional_mes_maes_7
+2025/05/11 17:08:00 📋 Informações do template 'transacional_mes_maes_7':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 17:08:00 ✅ Template transacional_mes_maes_7 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 17:08:00 Número 31986468306 já processado anteriormente, marcando pedido RENOVABE-3611371 como enviado
+2025/05/11 17:08:00 Número  já processado anteriormente, marcando pedido RENOVABE-3611935 como enviado
+2025/05/11 17:08:00 Número 11957547450 já processado anteriormente, marcando pedido RENOVABE-3612464 como enviado
+2025/05/11 17:08:00 📤 Processando lote #66: 997 mensagens
+2025/05/11 17:08:37 ✅ Lote #66: 65875/100000 mensagens enviadas
+2025/05/11 17:08:37 ⏳ Aguardando 4m23s para o próximo lote...
+2025/05/11 17:13:00 🔍 Verificando template: transacional_mes_maes_7
+2025/05/11 17:13:00 📋 Informações do template 'transacional_mes_maes_7':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 17:13:00 ✅ Template transacional_mes_maes_7 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 17:13:00 Número 69981302478 já processado anteriormente, marcando pedido RENOVABE-3614495 como enviado
+2025/05/11 17:13:00 📤 Processando lote #67: 999 mensagens
+2025/05/11 17:13:37 ✅ Lote #67: 66874/100000 mensagens enviadas
+2025/05/11 17:13:37 ⏳ Aguardando 4m23s para o próximo lote...
+2025/05/11 17:18:00 🔍 Verificando template: transacional_mes_maes_7
+2025/05/11 17:18:00 📋 Informações do template 'transacional_mes_maes_7':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 17:18:00 ✅ Template transacional_mes_maes_7 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 17:18:01 Número 11986069041 já processado anteriormente, marcando pedido RENOVABE-3618640 como enviado
+2025/05/11 17:18:01 Número 19994552541 já processado anteriormente, marcando pedido RENOVABE-3620256 como enviado
+2025/05/11 17:18:01 📤 Processando lote #68: 998 mensagens
+2025/05/11 17:18:09 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"A8FkWLU_DrsgQso9nAU_p8_"}}
+2025/05/11 17:18:11 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"Aan3u7igmBxyEZ0mtmwLmxP"}}
+2025/05/11 17:18:37 ✅ Lote #68: 67872/100000 mensagens enviadas
+2025/05/11 17:18:37 ⏳ Aguardando 4m24s para o próximo lote...
+2025/05/11 17:23:01 🔍 Verificando template: transacional_mes_maes_7
+2025/05/11 17:23:01 📋 Informações do template 'transacional_mes_maes_7':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 17:23:01 📊 Template transacional_mes_maes_7 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 17:23:01 🔍 Verificando template: transacional_maes_mes_8
+2025/05/11 17:23:01 📋 Informações do template 'transacional_maes_mes_8':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 17:23:01 ✅ Template transacional_maes_mes_8 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 17:23:01 Número 19991927184 já processado anteriormente, marcando pedido RENOVABE-3621882 como enviado
+2025/05/11 17:23:01 Número 11968963483 já processado anteriormente, marcando pedido RENOVABE-3622882 como enviado
+2025/05/11 17:23:01 📤 Processando lote #69: 998 mensagens
+2025/05/11 17:23:51 ✅ Lote #69: 68870/100000 mensagens enviadas
+2025/05/11 17:23:51 ⏳ Aguardando 4m10s para o próximo lote...
+2025/05/11 17:28:01 🔍 Verificando template: transacional_maes_mes_8
+2025/05/11 17:28:01 📋 Informações do template 'transacional_maes_mes_8':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 17:28:01 ✅ Template transacional_maes_mes_8 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 17:28:02 Número 11997089832 já processado anteriormente, marcando pedido RENOVABE-3625888 como enviado
+2025/05/11 17:28:02 📤 Processando lote #70: 999 mensagens
+2025/05/11 17:28:45 ✅ Lote #70: 69869/100000 mensagens enviadas
+2025/05/11 17:28:45 ⏳ Aguardando 4m17s para o próximo lote...
+2025/05/11 17:33:02 🔍 Verificando template: transacional_maes_mes_8
+2025/05/11 17:33:02 📋 Informações do template 'transacional_maes_mes_8':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 17:33:02 ✅ Template transacional_maes_mes_8 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 17:33:02 Número 31999894743 já processado anteriormente, marcando pedido RENOVABE-3628415 como enviado
+2025/05/11 17:33:02 Número 21975683281 já processado anteriormente, marcando pedido RENOVABE-3628584 como enviado
+2025/05/11 17:33:02 Número 24993092980 já processado anteriormente, marcando pedido RENOVABE-3629394 como enviado
+2025/05/11 17:33:02 Número 17992617903 já processado anteriormente, marcando pedido RENOVABE-3629477 como enviado
+2025/05/11 17:33:02 📤 Processando lote #71: 996 mensagens
+2025/05/11 17:33:50 ✅ Lote #71: 70865/100000 mensagens enviadas
+2025/05/11 17:33:50 ⏳ Aguardando 4m11s para o próximo lote...
+2025/05/11 17:38:02 🔍 Verificando template: transacional_maes_mes_8
+2025/05/11 17:38:02 📋 Informações do template 'transacional_maes_mes_8':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 17:38:02 ✅ Template transacional_maes_mes_8 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 17:38:02 Número 61998219660 já processado anteriormente, marcando pedido RENOVABE-3630660 como enviado
+2025/05/11 17:38:02 Número 99981091916 já processado anteriormente, marcando pedido RENOVABE-3631038 como enviado
+2025/05/11 17:38:02 Número 15998159280 já processado anteriormente, marcando pedido RENOVABE-3631949 como enviado
+2025/05/11 17:38:02 Número 16997225809 já processado anteriormente, marcando pedido RENOVABE-3632399 como enviado
+2025/05/11 17:38:02 📤 Processando lote #72: 996 mensagens
+2025/05/11 17:38:40 ✅ Lote #72: 71861/100000 mensagens enviadas
+2025/05/11 17:38:40 ⏳ Aguardando 4m22s para o próximo lote...
+2025/05/11 17:43:02 🔍 Verificando template: transacional_maes_mes_8
+2025/05/11 17:43:02 📋 Informações do template 'transacional_maes_mes_8':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 17:43:02 📊 Template transacional_maes_mes_8 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 17:43:02 🔍 Verificando template: transacional_maes_mes_9
+2025/05/11 17:43:03 📋 Informações do template 'transacional_maes_mes_9':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 17:43:03 ✅ Template transacional_maes_mes_9 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 17:43:03 Número 48991402388 já processado anteriormente, marcando pedido RENOVABE-3633638 como enviado
+2025/05/11 17:43:03 Número  já processado anteriormente, marcando pedido RENOVABE-3633743 como enviado
+2025/05/11 17:43:03 Número 89999849801 já processado anteriormente, marcando pedido RENOVABE-3634367 como enviado
+2025/05/11 17:43:03 Número 71991986703 já processado anteriormente, marcando pedido RENOVABE-3635248 como enviado
+2025/05/11 17:43:03 📤 Processando lote #73: 996 mensagens
+2025/05/11 17:43:15 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"AqZGOnSiwUf95W_bnNJzhQs"}}
+2025/05/11 17:43:39 ✅ Lote #73: 72857/100000 mensagens enviadas
+2025/05/11 17:43:39 ⏳ Aguardando 4m23s para o próximo lote...
+2025/05/11 17:48:03 🔍 Verificando template: transacional_maes_mes_9
+2025/05/11 17:48:03 📋 Informações do template 'transacional_maes_mes_9':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 17:48:03 ✅ Template transacional_maes_mes_9 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 17:48:03 Número  já processado anteriormente, marcando pedido RENOVABE-3636825 como enviado
+2025/05/11 17:48:03 📤 Processando lote #74: 999 mensagens
+2025/05/11 17:48:28 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"A5wpfuUbXv4YFszb1Ilx84S"}}
+2025/05/11 17:48:39 ✅ Lote #74: 73856/100000 mensagens enviadas
+2025/05/11 17:48:39 ⏳ Aguardando 4m23s para o próximo lote...
+2025/05/11 17:53:03 🔍 Verificando template: transacional_maes_mes_9
+2025/05/11 17:53:03 📋 Informações do template 'transacional_maes_mes_9':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 17:53:03 ✅ Template transacional_maes_mes_9 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 17:53:03 📤 Processando lote #75: 1000 mensagens
+2025/05/11 17:53:56 ✅ Lote #75: 74856/100000 mensagens enviadas
+2025/05/11 17:53:56 ⏳ Aguardando 4m7s para o próximo lote...
+2025/05/11 17:58:03 🔍 Verificando template: transacional_maes_mes_9
+2025/05/11 17:58:03 📋 Informações do template 'transacional_maes_mes_9':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 17:58:03 ✅ Template transacional_maes_mes_9 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 17:58:03 Número 45999199107 já processado anteriormente, marcando pedido RENOVABE-3642064 como enviado
+2025/05/11 17:58:03 Número 31999096999 já processado anteriormente, marcando pedido RENOVABE-3644146 como enviado
+2025/05/11 17:58:03 Número 54992420815 já processado anteriormente, marcando pedido RENOVABE-3644265 como enviado
+2025/05/11 17:58:03 📤 Processando lote #76: 997 mensagens
+2025/05/11 17:58:37 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"A8Fl5LbqElW6sU4VALgAmHh"}}
+2025/05/11 17:58:40 ✅ Lote #76: 75853/100000 mensagens enviadas
+2025/05/11 17:58:40 ⏳ Aguardando 4m23s para o próximo lote...
+2025/05/11 18:03:03 🔍 Verificando template: transacional_maes_mes_9
+2025/05/11 18:03:03 📋 Informações do template 'transacional_maes_mes_9':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 18:03:03 📊 Template transacional_maes_mes_9 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 18:03:03 🔍 Verificando template: transacional_maes_mes_10
+2025/05/11 18:03:04 Erro na API, verificando lista local
+2025/05/11 18:03:04 ✅ Template transacional_maes_mes_10 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 18:03:04 Número  já processado anteriormente, marcando pedido RENOVABE-3644971 como enviado
+2025/05/11 18:03:04 Número 11940220030 já processado anteriormente, marcando pedido RENOVABE-3645096 como enviado
+2025/05/11 18:03:04 Número 55991039912 já processado anteriormente, marcando pedido RENOVABE-3645175 como enviado
+2025/05/11 18:03:04 Número 51996932947 já processado anteriormente, marcando pedido RENOVABE-3646469 como enviado
+2025/05/11 18:03:04 📤 Processando lote #77: 996 mensagens
+2025/05/11 18:03:43 ✅ Lote #77: 76849/100000 mensagens enviadas
+2025/05/11 18:03:43 ⏳ Aguardando 4m21s para o próximo lote...
+2025/05/11 18:03:43 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"A6bgWQpKCQlvESaVkds1-KS"}}
+2025/05/11 18:08:04 🔍 Verificando template: transacional_maes_mes_10
+2025/05/11 18:08:05 📋 Informações do template 'transacional_maes_mes_10':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 18:08:05 ✅ Template transacional_maes_mes_10 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 18:08:05 Número 92991912320 já processado anteriormente, marcando pedido RENOVABE-3648858 como enviado
+2025/05/11 18:08:05 Número 31988498836 já processado anteriormente, marcando pedido RENOVABE-3649962 como enviado
+2025/05/11 18:08:05 📤 Processando lote #78: 998 mensagens
+2025/05/11 18:08:49 ✅ Lote #78: 77847/100000 mensagens enviadas
+2025/05/11 18:08:49 ⏳ Aguardando 4m17s para o próximo lote...
+2025/05/11 18:13:06 🔍 Verificando template: transacional_maes_mes_10
+2025/05/11 18:13:06 📋 Informações do template 'transacional_maes_mes_10':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 18:13:06 ✅ Template transacional_maes_mes_10 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 18:13:06 Número  já processado anteriormente, marcando pedido RENOVABE-3650891 como enviado
+2025/05/11 18:13:06 Número 45998027029 já processado anteriormente, marcando pedido RENOVABE-3651123 como enviado
+2025/05/11 18:13:06 Número 34997905034 já processado anteriormente, marcando pedido RENOVABE-3652177 como enviado
+2025/05/11 18:13:06 Número  já processado anteriormente, marcando pedido RENOVABE-3652281 como enviado
+2025/05/11 18:13:06 Número  já processado anteriormente, marcando pedido RENOVABE-3652466 como enviado
+2025/05/11 18:13:06 Número 19998541705 já processado anteriormente, marcando pedido RENOVABE-3652875 como enviado
+2025/05/11 18:13:06 📤 Processando lote #79: 994 mensagens
+2025/05/11 18:14:10 ✅ Lote #79: 78841/100000 mensagens enviadas
+2025/05/11 18:14:10 ⏳ Aguardando 3m56s para o próximo lote...
+2025/05/11 18:18:06 🔍 Verificando template: transacional_maes_mes_10
+2025/05/11 18:18:06 📋 Informações do template 'transacional_maes_mes_10':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 18:18:06 ✅ Template transacional_maes_mes_10 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 18:18:06 Número 11981126288 já processado anteriormente, marcando pedido RENOVABE-3654777 como enviado
+2025/05/11 18:18:06 Número 66996525477 já processado anteriormente, marcando pedido RENOVABE-3656238 como enviado
+2025/05/11 18:18:06 📤 Processando lote #80: 998 mensagens
+2025/05/11 18:18:45 ✅ Lote #80: 79839/100000 mensagens enviadas
+2025/05/11 18:18:45 ⏳ Aguardando 4m21s para o próximo lote...
+2025/05/11 18:23:06 🔍 Verificando template: transacional_maes_mes_10
+2025/05/11 18:23:06 📋 Informações do template 'transacional_maes_mes_10':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 18:23:06 📊 Template transacional_maes_mes_10 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 18:23:06 🔍 Verificando template: transacional_maes_mes_11
+2025/05/11 18:23:06 Erro na API, verificando lista local
+2025/05/11 18:23:06 ✅ Template transacional_maes_mes_11 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 18:23:06 Número 83999461284 já processado anteriormente, marcando pedido RENOVABE-3658217 como enviado
+2025/05/11 18:23:06 Número 22998637792 já processado anteriormente, marcando pedido RENOVABE-3658344 como enviado
+2025/05/11 18:23:06 Número 38992471591 já processado anteriormente, marcando pedido RENOVABE-3658795 como enviado
+2025/05/11 18:23:06 Número  já processado anteriormente, marcando pedido RENOVABE-3659364 como enviado
+2025/05/11 18:23:06 Número 48999860994 já processado anteriormente, marcando pedido RENOVABE-3659549 como enviado
+2025/05/11 18:23:06 📤 Processando lote #81: 995 mensagens
+2025/05/11 18:23:44 ✅ Lote #81: 80834/100000 mensagens enviadas
+2025/05/11 18:23:44 ⏳ Aguardando 4m23s para o próximo lote...
+2025/05/11 18:28:07 🔍 Verificando template: transacional_maes_mes_11
+2025/05/11 18:28:07 📋 Informações do template 'transacional_maes_mes_11':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 18:28:07 ✅ Template transacional_maes_mes_11 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 18:28:07 Número 48991919505 já processado anteriormente, marcando pedido RENOVABE-3659907 como enviado
+2025/05/11 18:28:07 Número 35991005680 já processado anteriormente, marcando pedido RENOVABE-3661570 como enviado
+2025/05/11 18:28:07 Número  já processado anteriormente, marcando pedido RENOVABE-3662279 como enviado
+2025/05/11 18:28:07 📤 Processando lote #82: 997 mensagens
+2025/05/11 18:28:43 ✅ Lote #82: 81831/100000 mensagens enviadas
+2025/05/11 18:28:43 ⏳ Aguardando 4m24s para o próximo lote...
+2025/05/11 18:33:07 🔍 Verificando template: transacional_maes_mes_11
+2025/05/11 18:33:07 📋 Informações do template 'transacional_maes_mes_11':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 18:33:07 ✅ Template transacional_maes_mes_11 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 18:33:07 Número 88996663852 já processado anteriormente, marcando pedido RENOVABE-3664074 como enviado
+2025/05/11 18:33:07 Número 19994793879 já processado anteriormente, marcando pedido RENOVABE-3664267 como enviado
+2025/05/11 18:33:07 📤 Processando lote #83: 998 mensagens
+2025/05/11 18:33:44 ✅ Lote #83: 82829/100000 mensagens enviadas
+2025/05/11 18:33:44 ⏳ Aguardando 4m24s para o próximo lote...
+2025/05/11 18:38:07 🔍 Verificando template: transacional_maes_mes_11
+2025/05/11 18:38:07 📋 Informações do template 'transacional_maes_mes_11':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 18:38:07 ✅ Template transacional_maes_mes_11 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 18:38:08 Número  já processado anteriormente, marcando pedido RENOVABE-3666732 como enviado
+2025/05/11 18:38:08 📤 Processando lote #84: 999 mensagens
+2025/05/11 18:38:56 ✅ Lote #84: 83828/100000 mensagens enviadas
+2025/05/11 18:38:56 ⏳ Aguardando 4m11s para o próximo lote...
+2025/05/11 18:43:08 🔍 Verificando template: transacional_maes_mes_11
+2025/05/11 18:43:08 📋 Informações do template 'transacional_maes_mes_11':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 18:43:08 📊 Template transacional_maes_mes_11 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 18:43:08 🔍 Verificando template: transacional_maes_mes_12
+2025/05/11 18:43:08 Erro na API, verificando lista local
+2025/05/11 18:43:08 ✅ Template transacional_maes_mes_12 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 18:43:09 Número 21973608750 já processado anteriormente, marcando pedido RENOVABE-3669258 como enviado
+2025/05/11 18:43:09 Número 11993849506 já processado anteriormente, marcando pedido RENOVABE-3669636 como enviado
+2025/05/11 18:43:09 📤 Processando lote #85: 998 mensagens
+2025/05/11 18:43:58 ✅ Lote #85: 84826/100000 mensagens enviadas
+2025/05/11 18:43:58 ⏳ Aguardando 4m11s para o próximo lote...
+2025/05/11 18:48:09 🔍 Verificando template: transacional_maes_mes_12
+2025/05/11 18:48:09 📋 Informações do template 'transacional_maes_mes_12':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 18:48:09 ✅ Template transacional_maes_mes_12 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 18:48:09 Número 47999817037 já processado anteriormente, marcando pedido RENOVABE-3673769 como enviado
+2025/05/11 18:48:09 Número 14998921047 já processado anteriormente, marcando pedido RENOVABE-3674609 como enviado
+2025/05/11 18:48:09 Número 47992411515 já processado anteriormente, marcando pedido RENOVABE-3674965 como enviado
+2025/05/11 18:48:09 📤 Processando lote #86: 997 mensagens
+2025/05/11 18:48:49 ✅ Lote #86: 85823/100000 mensagens enviadas
+2025/05/11 18:48:49 ⏳ Aguardando 4m20s para o próximo lote...
+2025/05/11 18:53:09 🔍 Verificando template: transacional_maes_mes_12
+2025/05/11 18:53:09 📋 Informações do template 'transacional_maes_mes_12':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 18:53:09 ✅ Template transacional_maes_mes_12 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 18:53:09 Número 67935004677 já processado anteriormente, marcando pedido RENOVABE-3675198 como enviado
+2025/05/11 18:53:09 Número 95981134373 já processado anteriormente, marcando pedido RENOVABE-3676977 como enviado
+2025/05/11 18:53:09 Número 11957712698 já processado anteriormente, marcando pedido RENOVABE-3677938 como enviado
+2025/05/11 18:53:09 📤 Processando lote #87: 997 mensagens
+2025/05/11 18:53:59 ✅ Lote #87: 86820/100000 mensagens enviadas
+2025/05/11 18:53:59 ⏳ Aguardando 4m10s para o próximo lote...
+2025/05/11 18:58:09 🔍 Verificando template: transacional_maes_mes_12
+2025/05/11 18:58:09 📋 Informações do template 'transacional_maes_mes_12':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 18:58:09 ✅ Template transacional_maes_mes_12 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 18:58:10 📤 Processando lote #88: 1000 mensagens
+2025/05/11 18:58:47 ✅ Lote #88: 87820/100000 mensagens enviadas
+2025/05/11 18:58:47 ⏳ Aguardando 4m22s para o próximo lote...
+2025/05/11 19:03:10 🔍 Verificando template: transacional_maes_mes_12
+2025/05/11 19:03:10 📋 Informações do template 'transacional_maes_mes_12':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 19:03:10 📊 Template transacional_maes_mes_12 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 19:03:10 🔍 Verificando template: transacional_maes_mes_13
+2025/05/11 19:03:10 Erro na API, verificando lista local
+2025/05/11 19:03:10 ✅ Template transacional_maes_mes_13 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 19:03:10 📤 Processando lote #89: 1000 mensagens
+2025/05/11 19:03:47 ✅ Lote #89: 88820/100000 mensagens enviadas
+2025/05/11 19:03:47 ⏳ Aguardando 4m23s para o próximo lote...
+2025/05/11 19:08:10 🔍 Verificando template: transacional_maes_mes_13
+2025/05/11 19:08:11 📋 Informações do template 'transacional_maes_mes_13':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 19:08:11 ✅ Template transacional_maes_mes_13 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 19:08:11 Número 61991717009 já processado anteriormente, marcando pedido RENOVABE-3684653 como enviado
+2025/05/11 19:08:11 📤 Processando lote #90: 999 mensagens
+2025/05/11 19:08:48 ✅ Lote #90: 89819/100000 mensagens enviadas
+2025/05/11 19:08:48 ⏳ Aguardando 4m23s para o próximo lote...
+2025/05/11 19:13:11 🔍 Verificando template: transacional_maes_mes_13
+2025/05/11 19:13:11 📋 Informações do template 'transacional_maes_mes_13':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 19:13:11 ✅ Template transacional_maes_mes_13 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 19:13:11 Número 61985433572 já processado anteriormente, marcando pedido RENOVABE-3686872 como enviado
+2025/05/11 19:13:11 Número 21997178983 já processado anteriormente, marcando pedido RENOVABE-3687221 como enviado
+2025/05/11 19:13:11 Número  já processado anteriormente, marcando pedido RENOVABE-3688733 como enviado
+2025/05/11 19:13:11 Número 19999391873 já processado anteriormente, marcando pedido RENOVABE-3689119 como enviado
+2025/05/11 19:13:11 Número 62996728253 já processado anteriormente, marcando pedido RENOVABE-3689932 como enviado
+2025/05/11 19:13:11 📤 Processando lote #91: 995 mensagens
+2025/05/11 19:13:52 ✅ Lote #91: 90814/100000 mensagens enviadas
+2025/05/11 19:13:52 ⏳ Aguardando 4m20s para o próximo lote...
+2025/05/11 19:18:11 🔍 Verificando template: transacional_maes_mes_13
+2025/05/11 19:18:11 📋 Informações do template 'transacional_maes_mes_13':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 19:18:11 ✅ Template transacional_maes_mes_13 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 19:18:11 Número 95981007073 já processado anteriormente, marcando pedido RENOVABE-3690196 como enviado
+2025/05/11 19:18:11 Número 99991104810 já processado anteriormente, marcando pedido RENOVABE-3690987 como enviado
+2025/05/11 19:18:11 Número 11940282103 já processado anteriormente, marcando pedido RENOVABE-3691162 como enviado
+2025/05/11 19:18:11 📤 Processando lote #92: 997 mensagens
+2025/05/11 19:18:43 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"AATt-doEPoY6pbx1RiTwoDL"}}
+2025/05/11 19:18:57 ✅ Lote #92: 91811/100000 mensagens enviadas
+2025/05/11 19:18:57 ⏳ Aguardando 4m15s para o próximo lote...
+2025/05/11 19:23:11 🔍 Verificando template: transacional_maes_mes_13
+2025/05/11 19:23:11 📋 Informações do template 'transacional_maes_mes_13':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 19:23:11 📊 Template transacional_maes_mes_13 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 19:23:11 🔍 Verificando template: transacional_maes_mes_14
+2025/05/11 19:23:12 📋 Informações do template 'transacional_maes_mes_14':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 19:23:12 ✅ Template transacional_maes_mes_14 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 19:23:12 Número 48999754975 já processado anteriormente, marcando pedido RENOVABE-3692900 como enviado
+2025/05/11 19:23:12 📤 Processando lote #93: 999 mensagens
+2025/05/11 19:23:49 ✅ Lote #93: 92810/100000 mensagens enviadas
+2025/05/11 19:23:49 ⏳ Aguardando 4m23s para o próximo lote...
+2025/05/11 19:28:12 🔍 Verificando template: transacional_maes_mes_14
+2025/05/11 19:28:12 📋 Informações do template 'transacional_maes_mes_14':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 19:28:12 ✅ Template transacional_maes_mes_14 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 19:28:12 Número 93991323421 já processado anteriormente, marcando pedido RENOVABE-3696783 como enviado
+2025/05/11 19:28:12 Número  já processado anteriormente, marcando pedido RENOVABE-3697379 como enviado
+2025/05/11 19:28:12 Número  já processado anteriormente, marcando pedido RENOVABE-3697485 como enviado
+2025/05/11 19:28:12 Número 11984051593 já processado anteriormente, marcando pedido RENOVABE-3697801 como enviado
+2025/05/11 19:28:12 📤 Processando lote #94: 996 mensagens
+2025/05/11 19:29:09 ✅ Lote #94: 93806/100000 mensagens enviadas
+2025/05/11 19:29:09 ⏳ Aguardando 4m4s para o próximo lote...
+2025/05/11 19:33:12 🔍 Verificando template: transacional_maes_mes_14
+2025/05/11 19:33:12 📋 Informações do template 'transacional_maes_mes_14':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 19:33:12 ✅ Template transacional_maes_mes_14 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 19:33:13 Número 11919540292 já processado anteriormente, marcando pedido RENOVABE-3699585 como enviado
+2025/05/11 19:33:13 Número 91981271030 já processado anteriormente, marcando pedido RENOVABE-3700289 como enviado
+2025/05/11 19:33:13 📤 Processando lote #95: 998 mensagens
+2025/05/11 19:33:41 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"ARfPYYWywa-erqa6xFXYgNb"}}
+2025/05/11 19:33:48 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"Ahe_3kbrB3UNypy0q5wpUWQ"}}
+2025/05/11 19:33:57 ✅ Lote #95: 94804/100000 mensagens enviadas
+2025/05/11 19:33:57 ⏳ Aguardando 4m15s para o próximo lote...
+2025/05/11 19:38:13 🔍 Verificando template: transacional_maes_mes_14
+2025/05/11 19:38:13 📋 Informações do template 'transacional_maes_mes_14':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 19:38:13 ✅ Template transacional_maes_mes_14 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 19:38:13 Número 31996961274 já processado anteriormente, marcando pedido RENOVABE-3702522 como enviado
+2025/05/11 19:38:13 Número  já processado anteriormente, marcando pedido RENOVABE-3704851 como enviado
+2025/05/11 19:38:13 📤 Processando lote #96: 998 mensagens
+2025/05/11 19:38:51 ✅ Lote #96: 95802/100000 mensagens enviadas
+2025/05/11 19:38:51 ⏳ Aguardando 4m22s para o próximo lote...
+2025/05/11 19:43:13 🔍 Verificando template: transacional_maes_mes_14
+2025/05/11 19:43:13 📋 Informações do template 'transacional_maes_mes_14':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 19:43:13 📊 Template transacional_maes_mes_14 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 19:43:13 🔍 Verificando template: transacional_maes_mes_15
+2025/05/11 19:43:14 📋 Informações do template 'transacional_maes_mes_15':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/11 19:43:14 ✅ Template transacional_maes_mes_15 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 19:43:14 📤 Processando lote #97: 1000 mensagens
+2025/05/11 19:43:38 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"AsMJdF0mhCaQvexxkRnIedk"}}
+2025/05/11 19:43:53 ✅ Lote #97: 96802/100000 mensagens enviadas
+2025/05/11 19:43:53 ⏳ Aguardando 4m20s para o próximo lote...
+2025/05/11 19:48:14 🔍 Verificando template: transacional_maes_mes_15
+2025/05/11 19:48:14 📋 Informações do template 'transacional_maes_mes_15':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 19:48:14 ✅ Template transacional_maes_mes_15 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 19:48:14 Número 15991454694 já processado anteriormente, marcando pedido RENOVABE-3709863 como enviado
+2025/05/11 19:48:14 Número 11967700609 já processado anteriormente, marcando pedido RENOVABE-3711057 como enviado
+2025/05/11 19:48:14 📤 Processando lote #98: 998 mensagens
+2025/05/11 19:48:26 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"AtxaSBTe7bzsmcb-dLYewTZ"}}
+2025/05/11 19:49:08 ✅ Lote #98: 97800/100000 mensagens enviadas
+2025/05/11 19:49:08 ⏳ Aguardando 4m6s para o próximo lote...
+2025/05/11 19:53:14 🔍 Verificando template: transacional_maes_mes_15
+2025/05/11 19:53:14 📋 Informações do template 'transacional_maes_mes_15':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 19:53:14 ✅ Template transacional_maes_mes_15 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 19:53:14 Número 94991133195 já processado anteriormente, marcando pedido RENOVABE-3711215 como enviado
+2025/05/11 19:53:14 Número 11973507408 já processado anteriormente, marcando pedido RENOVABE-3711375 como enviado
+2025/05/11 19:53:14 Número 54981232673 já processado anteriormente, marcando pedido RENOVABE-3713242 como enviado
+2025/05/11 19:53:14 Número 16997836157 já processado anteriormente, marcando pedido RENOVABE-3713251 como enviado
+2025/05/11 19:53:14 Número  já processado anteriormente, marcando pedido RENOVABE-3713932 como enviado
+2025/05/11 19:53:14 📤 Processando lote #99: 995 mensagens
+2025/05/11 19:54:00 ✅ Lote #99: 98795/100000 mensagens enviadas
+2025/05/11 19:54:00 ⏳ Aguardando 4m15s para o próximo lote...
+2025/05/11 19:54:06 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"AW84dnwY_f1ku0iCQAb1ENs"}}
+2025/05/11 19:58:14 🔍 Verificando template: transacional_maes_mes_15
+2025/05/11 19:58:14 📋 Informações do template 'transacional_maes_mes_15':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 19:58:14 ✅ Template transacional_maes_mes_15 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 19:58:14 Número 85986222122 já processado anteriormente, marcando pedido RENOVABE-3715883 como enviado
+2025/05/11 19:58:14 Número 16991411352 já processado anteriormente, marcando pedido RENOVABE-3716587 como enviado
+2025/05/11 19:58:14 Número 31972452002 já processado anteriormente, marcando pedido RENOVABE-3717481 como enviado
+2025/05/11 19:58:14 📤 Processando lote #100: 997 mensagens
+2025/05/11 19:59:04 ✅ Lote #100: 99792/100000 mensagens enviadas
+2025/05/11 19:59:04 ⏳ Aguardando 4m10s para o próximo lote...
+2025/05/11 20:03:14 🔍 Verificando template: transacional_maes_mes_15
+2025/05/11 20:03:14 📋 Informações do template 'transacional_maes_mes_15':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 20:03:14 📊 Template transacional_maes_mes_15 atingiu o limite de 3000 mensagens. Mudando para o próximo...
+2025/05/11 20:03:14 🔄 Todos os templates atingiram o limite. Resetando contador do template transacional_maes_mes_15
+2025/05/11 20:03:14 🔍 Verificando template: transacional_maes_mes_15
+2025/05/11 20:03:14 📋 Informações do template 'transacional_maes_mes_15':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 20:03:14 ✅ Template transacional_maes_mes_15 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 20:03:15 Número 16999642800 já processado anteriormente, marcando pedido RENOVABE-3718194 como enviado
+2025/05/11 20:03:15 📤 Processando lote #101: 207 mensagens
+2025/05/11 20:03:16 ✅ Lote #101: 99999/100000 mensagens enviadas
+2025/05/11 20:03:16 ⏳ Aguardando 4m59s para o próximo lote...
+2025/05/11 20:03:18 Erro 400: {"error":{"message":"(#100) Invalid parameter","type":"OAuthException","code":100,"error_data":{"messaging_product":"whatsapp","details":"Parameter Invalid"},"fbtrace_id":"APtLkukJdorXNbVsXgB0gez"}}
+2025/05/11 20:08:15 🔍 Verificando template: transacional_maes_mes_15
+2025/05/11 20:08:15 📋 Informações do template 'transacional_maes_mes_15':
+   - Categoria: UTILITY
+   - Status: 
+2025/05/11 20:08:15 ✅ Template transacional_maes_mes_15 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/11 20:08:15 📤 Processando lote #102: 1 mensagens
+2025/05/11 20:08:15 ✅ Lote #102: 100000/100000 mensagens enviadas
+2025/05/11 20:08:15 🏁 Limite de 100000 mensagens atingido
+2025/05/11 20:08:16 
+📊 RESULTADOS:
+2025/05/11 20:08:16 • Processado: 100000
+2025/05/11 20:08:16 • Sucesso: 99961
+2025/05/11 20:08:16 • Falhas: 39
+2025/05/11 20:08:16 • Rate Limits: 0
+2025/05/11 20:08:16 • Taxa final: 20 msgs/seg
+2025/05/11 20:08:16 • Taxa de sucesso: 99.96%
+2025/05/11 20:08:16 
+✅ Concluído! Detalhes em stats/estatisticas_controlado.txt

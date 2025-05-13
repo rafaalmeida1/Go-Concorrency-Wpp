@@ -1,10 +1,10 @@
 {
-  "TotalProcessado": 21988,
-  "EnviadosComSucesso": 21981,
-  "EnviosFalhados": 7,
+  "TotalProcessado": 100000,
+  "EnviadosComSucesso": 99961,
+  "EnviosFalhados": 39,
   "RateLimitAtingido": 0,
   "TaxaAtual": 20,
-  "IniciadoEm": "2025-05-10T16:23:38.593632428-03:00",
-  "UltimaAtualizacao": "2025-05-10T18:26:56.922716316-03:00",
-  "TempoDecorrido": "1h54m11s"
+  "IniciadoEm": "2025-05-11T11:42:26.206943314-03:00",
+  "UltimaAtualizacao": "2025-05-11T20:08:16.202690402-03:00",
+  "TempoDecorrido": "8h25m50s"
 }
