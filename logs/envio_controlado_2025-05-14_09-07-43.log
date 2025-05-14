@@ -1,0 +1,11 @@
+2025/05/14 09:07:43 🚀 Iniciando processo de envio controlado
+2025/05/14 09:07:44 🚀 Iniciando com taxa de 20 mensagens por segundo
+2025/05/14 09:07:44 ⏱️ Processando lotes de 1000 mensagens a cada 5m0s
+2025/05/14 09:07:44 🔍 Verificando template: transacional_falta_estoque_step_13_05_2025
+2025/05/14 09:07:44 📋 Informações do template 'transacional_falta_estoque_step_13_05_2025':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/14 09:07:44 ✅ Template transacional_falta_estoque_step_13_05_2025 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/14 09:07:45 📤 Processando lote #1: 1 mensagens
+2025/05/14 09:07:45 ✅ Lote #1: 1/100000 mensagens enviadas
+2025/05/14 09:07:45 ⏳ Aguardando 5m0s para o próximo lote...

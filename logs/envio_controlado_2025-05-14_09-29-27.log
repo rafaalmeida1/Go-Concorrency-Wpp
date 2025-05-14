@@ -1,0 +1,23 @@
+2025/05/14 09:29:27 🚀 Iniciando processo de envio controlado
+2025/05/14 09:29:28 🚀 Iniciando com taxa de 20 mensagens por segundo
+2025/05/14 09:29:28 ⏱️ Processando lotes de 1000 mensagens a cada 5m0s
+2025/05/14 09:29:28 🔍 Verificando template: transacional_falta_estoque_step_13_05_2025
+2025/05/14 09:29:29 📋 Informações do template 'transacional_falta_estoque_step_13_05_2025':
+   - Categoria: UTILITY
+   - Status: APPROVED
+2025/05/14 09:29:29 ✅ Template transacional_falta_estoque_step_13_05_2025 confirmado como UTILITY e ativo. Iniciando envio...
+2025/05/14 09:29:30 Número 11972299456 já processado anteriormente, marcando pedido RENOVABE-5020901 como enviado
+2025/05/14 09:29:30 Número 11989235325 já processado anteriormente, marcando pedido RENOVABE-5019774 como enviado
+2025/05/14 09:29:30 Erro ao ler registro: sql: Scan error on column index 1, name "celular_formatado": converting NULL to string is unsupported
+2025/05/14 09:29:31 ❌ Erro ao buscar mensagens: sql: Scan error on column index 1, name "celular_formatado": converting NULL to string is unsupported
+2025/05/14 09:29:31 📊 Total de envios bem-sucedidos registrados no log: 984
+2025/05/14 09:29:31 📋 Log detalhado disponível em: logs/sucessos/sucessos_2025-05-14.log
+2025/05/14 09:29:31 
+📊 RESULTADOS:
+2025/05/14 09:29:31 • Processado: 0
+2025/05/14 09:29:31 • Sucesso: 0
+2025/05/14 09:29:31 • Falhas: 0
+2025/05/14 09:29:31 • Rate Limits: 0
+2025/05/14 09:29:31 • Taxa final: 20 msgs/seg
+2025/05/14 09:29:31 
+✅ Concluído! Detalhes em stats/estatisticas_controlado.txt

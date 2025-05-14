@@ -1,6 +1,7 @@
 package main
 
 import (
+	"bufio"
 	"bytes"
 	"database/sql"
 	"encoding/json"
@@ -98,7 +99,9 @@ var (
 	
 	// Templates
 	templatesUtilidade = []string{
-		"transacional_falta_estoque_step_13_05_2025"
+		"transacional_falta_estoque_step_13_05_2025",
+		// "transacional_falta_estoque_step_15_05_2025"
+		// "transacional_falta_estoque_step_17_05_2025"
 	}
 	
 	templatePadrao = "transacional_falta_estoque_step_13_05_2025"
@@ -106,7 +109,9 @@ var (
 	
 	// Mapeamento de templates para suas linguagens
 	templateLanguages = map[string]string{
-		"transacional_falta_estoque_step_13_05_2025": "pt_BR"
+		"transacional_falta_estoque_step_13_05_2025": "pt_BR",
+		// "transacional_falta_estoque_step_15_05_2025": "pt_BR"
+		// "transacional_falta_estoque_step_17_05_2025": "pt_BR"
 	}
 	
 	templateCategoryCache   = make(map[string]string)
@@ -366,21 +371,9 @@ func logTerminal(format string, v ...interface{}) {
 }
 
 func fetchMessages(limit int) ([]Message, error) {
-	// rows, err := db.Query(`SELECT pedidos_numeroPedido, celular_formatado, pedidos_cliente_nome, pedidos_dataEmissao 
-	// FROM pedidos_envio_em_massa 
-	// WHERE (enviada = 0 OR enviada IS NULL) 
-	// AND pedidos_dataEmissao < '2023-01-01 00:00:00' LIMIT ?`, limit)
-	
-	rows, err := db.Query(`SELECT pedidos_numeroPedido, celular_formatado, pedidos_cliente_nome, pedidos_dataEmissao 
-	FROM pedidos_envio_em_massa 
-	WHERE (enviada = 0 OR enviada IS NULL) 
-	AND pedidos_dataEmissao >= '2023-01-01 00:00:00' AND pedidos_dataEmissao <= '2025-01-01 00:00:00' LIMIT ?`, limit)
-
-	// Buscar apenas números não processados anteriormente
-	// rows, err := db.Query(`SELECT DISTINCT pedidos_numeroPedido, celular_formatado, pedidos_cliente_nome, pedidos_dataEmissao 
-	// FROM pedidos_envio_em_massa 
-	// WHERE (enviada = 0 OR enviada IS NULL) 
-	// AND pedidos_dataEmissao >= '2025-05-09 09:30:00' LIMIT ?`, limit)
+	rows, err := db.Query(`SELECT pedidos_numeroPedido, REPLACE(REPLACE(REPLACE(REPLACE(pedidos_cliente_celular, ' ', ''), '-', ''), ')', ''), '(', '') as celular_formatado, pedidos_cliente_nome, pedidos_dataEmissao 
+	FROM pedidos 
+	WHERE pedidos_cliente_celular IS NOT NULL LIMIT ?`, limit)
 	
 	if err != nil {
 		logger.Printf("Erro ao buscar mensagens: %v", err)
@@ -657,6 +650,28 @@ func sendMessage(msg Message, templateName string) bool {
 	// Processar resposta - Nota: número já está marcado como enviado
 	if resp.StatusCode == 200 || resp.StatusCode == 201 {
 		atomic.AddInt64(&enviadosComSucesso, 1)
+		
+		// Log de números enviados com sucesso
+		sucessosDir := "logs/sucessos"
+		if _, err := os.Stat(sucessosDir); os.IsNotExist(err) {
+			os.MkdirAll(sucessosDir, 0755)
+		}
+		
+		// Nome do arquivo com data atual
+		dataHoje := time.Now().Format("2006-01-02")
+		arquivoSucessos := filepath.Join(sucessosDir, fmt.Sprintf("sucessos_%s.log", dataHoje))
+		
+		// Abrir arquivo no modo append
+		f, err := os.OpenFile(arquivoSucessos, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+		if err == nil {
+			defer f.Close()
+			timestamp := time.Now().Format("15:04:05")
+			logEntry := fmt.Sprintf("%s | %s | %s | %s\n", timestamp, msg.Celular, msg.NumeroPedido, msg.Nome)
+			f.WriteString(logEntry)
+		} else {
+			logger.Printf("Erro ao abrir arquivo de logs de sucesso: %v", err)
+		}
+		
 		return true
 	} else if resp.StatusCode == 429 {
 		// Rate limit detectado
@@ -669,6 +684,42 @@ func sendMessage(msg Message, templateName string) bool {
 		logger.Printf("Erro %d: %s", resp.StatusCode, string(respBody))
 		return false
 	}
+}
+
+// Função para resumir os logs de sucesso
+func summarizeSuccessLogs() {
+	sucessosDir := "logs/sucessos"
+	dataHoje := time.Now().Format("2006-01-02")
+	arquivoSucessos := filepath.Join(sucessosDir, fmt.Sprintf("sucessos_%s.log", dataHoje))
+
+	// Verificar se o arquivo existe
+	if _, err := os.Stat(arquivoSucessos); os.IsNotExist(err) {
+		logTerminal("⚠️ Não há registros de envios bem-sucedidos para hoje")
+		return
+	}
+
+	// Abrir o arquivo
+	file, err := os.Open(arquivoSucessos)
+	if err != nil {
+		logTerminal("❌ Erro ao abrir arquivo de sucessos: %v", err)
+		return
+	}
+	defer file.Close()
+
+	// Contar linhas do arquivo
+	scanner := bufio.NewScanner(file)
+	count := 0
+	for scanner.Scan() {
+		count++
+	}
+
+	if err := scanner.Err(); err != nil {
+		logTerminal("❌ Erro ao ler arquivo de sucessos: %v", err)
+		return
+	}
+
+	logTerminal("📊 Total de envios bem-sucedidos registrados no log: %d", count)
+	logTerminal("📋 Log detalhado disponível em: %s", arquivoSucessos)
 }
 
 // Worker que respeita o rate limiting
@@ -843,6 +894,9 @@ func main() {
 		RateLimitAtingido:  atomic.LoadInt64(&rateLimitAtingido),
 		TaxaAtual:          int(atomic.LoadInt32(&taxaEnvio)),
 	}
+	
+	// Resumir logs de números com envio bem-sucedido
+	summarizeSuccessLogs()
 	
 	logTerminal("\n📊 RESULTADOS:")
 	logTerminal("• Processado: %d", estatisticasFinais.TotalProcessado)
